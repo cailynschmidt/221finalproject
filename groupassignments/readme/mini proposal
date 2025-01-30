@@ -1,0 +1,46 @@
+Mini Group Assignment
+For this week's group assignment, meet with your group members and submit a status report as a markdown file in your group repo. This will simply be graded as a "done" or "not done" and count towards your participation grade.
+Instructions
+Include the following sections:
+Project title and link to proposal
+Cooling Resources in LA 
+Roles: Give each team member a title, and define what role each team member will play, and how each person plans to contribute to the project. While this may be subject to change, it is a good idea to define this early in the project to clarify "who is doing what."
+Mia - 
+Data: Racial profile ; cooling centers 
+Project Role: Data exploration Coding/filtering data, Merging data 
+Zixuan
+Data :  Rent, Income ; 
+Project Role: Data exploration, template/color scheme for presentation
+Cailyn 
+Data: Tree data, education ; 
+Project Role: Data exploration, Group Repo manager, Powerpoint presentation design
+Sienna 
+Data: Age profile (w3), FEMA or EJ screening 
+Project Role: Data exploration, research / context (prior literature)
+Status update: Report on the general mood of the team, and provide details as to what is working, and what is not.
+Appreciate the feedback provided by Chris. Group communication and delegation has been clear among team members. Excited to start piecing together a cohesive story regarding extreme heat and solutions that could be proposed. Group members are still gaining comfortability with coding, specifically sorting through data and missing values. 
+Data update: Provide a short narrative on where you are with the data sources you will incorporate in your project. Provide links as necessary.
+Cailyn 
+Street Tree Data :https://geohub.lacity.org/datasets/266c6255b1fc4ae8b8f100d8696e1fa4_0
+Sienna
+Vulnerability (EJ Screening or FEMA Index)
+FEMA's National Risk Index map and Data Download to download various climate-related social vulnerability data: https://hazards.fema.gov/nri/
+The EPA's EJScreening Tool has interest variables by census tract too related to health and race/ethnicity: https://www.epa.gov/ejscreen/download-ejscreen-data 
+Mia
+Cooling centers in LA County GIS data https://geohub.lacity.org/maps/lahub::cooling-and-warming-centers/explore
+Zixuan 
+Selected Housing characteristics with year structure built, rental vacancy rates, rent, and gross rent as percentage of income (filter by all tracts within Los Angeles County): https://data.census.gov/table/ACSSDP1YCD1192023.DP04?q=DP04:%20Selected%20Housing%20Characteristics 
+Concerns: There should be a lot to be concerned about at this phase of the project. List those concerns and classify them as "Major concerns" and/or "Minor concerns."
+Major - determine ways to merge the datasets 
+Major - determine which dependent variable to explore (tree cover, cooling centers, or other vulnerability index indicators) 
+Minor - determine which independent variables to explore (race, income, rent, education, etc.) 
+Minor - determine which maps and charts to produce 
+3 Maps
+Map 1 - location of cooling resources or vulnerability index for extreme heat
+Map 2 - Census data + proximity to cooling centers
+Map 3 - Census data + tree canopy coverage
+2 Charts 
+Chart 1 - Top 10 Census tracts with highest vulnerability to extreme heat 
+Chart 2 - Top 10 Census tracts with highest count of cooling centers / tree coverage
+Chart 3 - Top 10 Census tracts with lowest count of cooling centers / tree coverage
+Chart 4 - Highest income census tracts vs lowest income census tracts 
