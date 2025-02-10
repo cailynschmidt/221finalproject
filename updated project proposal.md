@@ -16,7 +16,8 @@ Space/time: Data dependent but ideally within the last 10 years. As our climate 
 
 ## Data Sources 
 
-**Street Tree Data** :[https://geohub.lacity.org/datasets/266c6255b1fc4ae8b8f100d8696e1fa4\_0](https://geohub.lacity.org/datasets/266c6255b1fc4ae8b8f100d8696e1fa4_0)
+**Street Tree Data** 
+* [https://geohub.lacity.org/datasets/266c6255b1fc4ae8b8f100d8696e1fa4\_0](https://geohub.lacity.org/datasets/266c6255b1fc4ae8b8f100d8696e1fa4_0)
 
 **Vulnerability (EJ Screening or FEMA Index)**
 
@@ -30,7 +31,7 @@ Space/time: Data dependent but ideally within the last 10 years. As our climate 
 
 **Housing** 
 
-Selected Housing characteristics with year structure built, rental vacancy rates, rent, and gross rent as percentage of income (filter by all tracts within Los Angeles County): [https://data.census.gov/table/ACSSDP1YCD1192023.DP04?q=DP04:%20Selected%20Housing%20Characteristics](https://data.census.gov/table/ACSSDP1YCD1192023.DP04?q=DP04:%20Selected%20Housing%20Characteristics) 
+*Selected Housing characteristics with year structure built, rental vacancy rates, rent, and gross rent as percentage of income (filter by all tracts within Los Angeles County): [https://data.census.gov/table/ACSSDP1YCD1192023.DP04?q=DP04:%20Selected%20Housing%20Characteristics](https://data.census.gov/table/ACSSDP1YCD1192023.DP04?q=DP04:%20Selected%20Housing%20Characteristics) 
 
 ## A scope that explains the intended analysis and resulting visualizations for your project  
 Identifying patterns/distribution of low tree canopy (range) and cooling centers (points). Overlaying sociodemographic factors (SES/ race) 
@@ -39,13 +40,13 @@ Identifying patterns/distribution of low tree canopy (range) and cooling centers
 ### Heat 
 
 1. Chart 1 \- Top 10 Census Tracts with Highest Heat Risk Vulnerability in Los Angeles County   
-2. Map 1 \- Heat Wave Risk in Los Angeles County   
-3. Map 2 \- Top 10 Census Tracts with Highest Heat Wave Vulnerability in Los Angeles county 
+2. Map 1 (static)\- Heat Wave Risk in Los Angeles County   
+3. Map 2 (static) \- Top 10 Census Tracts with Highest Heat Wave Vulnerability in Los Angeles county 
 
 ### Cooling Centers
 
 1. Chart 2: Top 10 Cities with the Highest Count of Cooling Centers LA County 2024   
-2. Map 3: Cooling Centers in LA County
+2. Map 3 (static): Cooling Centers in LA County
 
 ### Tree Canopy
 
@@ -58,7 +59,7 @@ Identifying patterns/distribution of low tree canopy (range) and cooling centers
 
 1. Chart 4: Top 10 Census Tracts with Most Owner-occupied units in Los Angeles County in 2025  
 2. Chart 5: Top 10 Census Tracts with Expensive Owner-occupied units in Los Angeles County in 2025   
-3. Map: Most Expensive Rent-occupied units in Los Angeles County 2025
+3. Map (Interactive): Most Expensive Rent-occupied units in Los Angeles County 2025
 
 ## Conclusion  
 Through conducting this research, we expect to gain insights into the relationships between sociodemographic factors and access to cooling resources in Los Angeles County. From census tract and tree canopy information, we anticipate to see patterns between income levels, racial demographics, and the land use coverage. Our spatial analysis may reveal communities who are disproportionately affected by periods of extreme heat among vulnerable population as school children and the elderly. Additionally, we hope to explore the spatial distribution of tree canopy coverage and the distribution of cooling centers, potentially identifying areas where these resources complement or substitute for each other. In conclusion, our research seeks to identify areas with the highest need for heat mitigation interventions. Ultimately, this information can best inform policymakers and urban planners on how to improve heat silence for the most vulnerable communities across Los Angeles County.   
