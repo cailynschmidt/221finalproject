@@ -1,0 +1,2410 @@
+GEOID,heatrisk_class,City,Tree Canopy Class,RentBurden_class,buffer_index
+6037620102,0,El Segundo,2,0,2
+6037620101,1,El Segundo,1,1,2
+6037620101,1,El Segundo,1,1,2
+6037278102,0,Playa Del Rey,0,1,2
+6037278102,0,Playa Del Rey,2,1,2
+6037278102,0,Playa Del Rey,1,1,2
+6037297300,0,San Pedro,1,2,2
+6037297300,0,San Pedro,1,2,2
+6037297300,0,San Pedro,0,2,2
+6037297400,0,San Pedro,2,1,2
+6037297400,0,San Pedro,1,1,2
+6037297400,0,San Pedro,1,1,2
+6037297202,0,San Pedro,0,1,2
+6037297202,0,San Pedro,1,1,2
+6037297202,0,San Pedro,1,1,2
+6037609900,0,La Rambla,2,2,1
+6037609900,0,La Rambla,1,2,1
+6037296401,0,San Pedro,2,2,2
+6037296401,0,San Pedro,2,2,2
+6037296402,0,San Pedro,3,2,1
+6037296402,0,San Pedro,1,2,1
+6037296402,0,San Pedro,1,2,1
+6037670702,0,Rancho Palos Verdes,4,3,2
+6037670702,0,Rancho Palos Verdes,3,3,2
+6037670702,0,Rancho Palos Verdes,3,3,2
+6037296300,1,San Pedro,1,3,2
+6037296300,1,San Pedro,2,3,2
+6037670701,1,Rancho Palos Verdes,1,2,2
+6037670701,1,Rancho Palos Verdes,2,2,2
+6037670701,1,Rancho Palos Verdes,2,2,2
+6037293306,0,Harbor City,2,1,2
+6037293306,0,Harbor City,2,1,2
+6037293307,0,Harbor City,1,3,2
+6037293307,0,Harbor City,0,3,2
+6037296220,1,San Pedro,1,2,1
+6037296220,1,San Pedro,1,2,1
+6037296220,1,San Pedro,1,2,1
+6037296210,1,San Pedro,1,3,1
+6037296210,1,San Pedro,0,3,1
+6037296210,1,San Pedro,1,3,1
+6037296500,1,San Pedro,0,2,1
+6037296500,1,San Pedro,2,2,1
+6037296500,1,San Pedro,1,2,1
+6037295103,0,Wilmington,2,3,2
+6037295103,0,Wilmington,0,3,2
+6037294830,1,Wilmington,0,2,2
+6037294830,1,Wilmington,0,2,2
+6037294900,1,Wilmington,0,3,2
+6037294900,1,Wilmington,0,3,2
+6037294701,1,Wilmington,0,4,2
+6037294701,1,Wilmington,0,4,2
+6037294701,1,Wilmington,0,4,2
+6037980015,0,Harbor City,0,3,2
+6037294810,1,Wilmington,0,3,2
+6037294810,1,Wilmington,0,3,2
+6037294820,1,Wilmington,0,4,2
+6037294820,1,Wilmington,0,4,2
+6037294302,1,Wilmington,0,3,2
+6037294302,1,Wilmington,0,3,2
+6037294510,1,Wilmington,1,3,2
+6037294510,1,Wilmington,1,3,2
+6037294520,1,Wilmington,1,3,2
+6037294520,1,Wilmington,1,3,2
+6037294610,1,Wilmington,1,2,2
+6037294610,1,Wilmington,2,2,2
+6037294421,0,Harbor City,0,3,2
+6037294421,0,Harbor City,0,3,2
+6037294421,0,Harbor City,0,3,2
+6037294410,1,Harbor City,1,2,2
+6037294410,1,Harbor City,0,2,2
+6037294301,0,Wilmington,1,4,2
+6037294301,0,Wilmington,1,4,2
+6037294200,1,Wilmington,0,3,2
+6037294200,1,Wilmington,0,3,2
+6037294200,1,Wilmington,0,3,2
+6037294110,1,Wilmington,0,3,2
+6037294110,1,Wilmington,0,3,2
+6037294110,1,Wilmington,0,3,2
+6037293304,1,Harbor City,0,3,2
+6037293304,1,Harbor City,0,3,2
+6037670002,1,Lomita,1,1,2
+6037293302,1,Harbor City,1,3,1
+6037293302,1,Harbor City,0,3,1
+6037293301,0,Harbor City,0,3,0
+6037651001,1,Torrance,1,4,0
+6037651001,1,Torrance,1,4,0
+6037297601,0,San Pedro,1,3,2
+6037297601,0,San Pedro,1,3,2
+6037297601,0,San Pedro,1,3,2
+6037297602,0,San Pedro,1,2,2
+6037297602,0,San Pedro,1,2,2
+6037297602,0,San Pedro,1,2,2
+6037297201,1,San Pedro,0,3,1
+6037297201,1,San Pedro,0,3,1
+6037297120,1,San Pedro,0,3,1
+6037297120,1,San Pedro,0,3,1
+6037296901,1,San Pedro,1,2,1
+6037296901,1,San Pedro,0,2,1
+6037296901,1,San Pedro,0,2,1
+6037297110,1,San Pedro,0,3,1
+6037297110,1,San Pedro,0,3,1
+6037296902,1,San Pedro,0,3,0
+6037296902,1,San Pedro,0,3,0
+6037296902,1,San Pedro,0,3,0
+6037980031,0,San Pedro,0,0,2
+6037296600,1,San Pedro,0,3,0
+6037296600,1,San Pedro,0,3,0
+6037296600,1,San Pedro,1,3,0
+6037296600,1,San Pedro,0,3,0
+6037294620,1,Wilmington,0,1,2
+6037294620,1,Wilmington,0,1,2
+6037294620,1,Wilmington,0,1,2
+6037294120,0,Wilmington,0,2,2
+6037294120,0,Wilmington,0,2,2
+6037294120,0,Wilmington,0,2,2
+6037572600,1,Long Beach,1,0,2
+6037543703,0,Carson,0,2,2
+6037543603,0,West Carson,0,2,1
+6037543905,1,Carson,0,3,2
+6037572301,1,Long Beach,0,2,2
+6037544002,0,Long Beach,1,2,2
+6037543503,1,West Carson,0,1,2
+6037543503,1,West Carson,0,1,2
+6037543502,1,West Carson,0,2,2
+6037543502,1,West Carson,0,2,2
+6037543502,1,West Carson,1,2,2
+6037543501,2,Carson,0,2,2
+6037543400,1,Carson,0,4,2
+6037291300,0,Harbor Gateway,0,1,2
+6037291300,0,Harbor Gateway,0,1,2
+6037291300,0,Harbor Gateway,1,1,2
+6037650901,1,Torrance,0,2,0
+6037650901,1,Torrance,1,2,0
+6037650901,1,Torrance,1,2,0
+6037650101,1,Torrance,0,4,2
+6037650101,1,Torrance,0,4,2
+6037650200,1,Torrance,0,3,1
+6037603200,0,Gardena,0,2,2
+6037603200,0,Gardena,0,2,2
+6037603200,0,Gardena,0,2,2
+6037602900,1,Gardena,0,0,1
+6037602900,1,Gardena,0,0,1
+6037602802,1,Athens/Westmont,0,2,1
+6037602802,1,Athens/Westmont,0,2,1
+6037602801,1,Athens/Westmont,0,3,0
+6037620001,0,El Segundo,1,2,2
+6037620001,0,El Segundo,2,2,2
+6037601600,1,Lennox,0,3,0
+6037601502,1,Lennox,0,2,0
+6037291220,1,Harbor Gateway,1,2,2
+6037291220,1,Harbor Gateway,0,2,2
+6037291220,1,Harbor Gateway,0,2,2
+6037603102,1,Gardena,2,3,2
+6037603101,1,Gardena,0,3,2
+6037603101,1,Gardena,0,3,2
+6037603101,1,Gardena,0,3,2
+6037291210,1,Harbor Gateway,0,2,2
+6037291210,1,Harbor Gateway,0,2,2
+6037291210,1,Harbor Gateway,0,2,2
+6037291130,0,Harbor Gateway,0,1,2
+6037291130,0,Harbor Gateway,1,1,2
+6037291130,0,Harbor Gateway,1,1,2
+6037540902,1,Willowbrook,0,2,1
+6037291120,0,Harbor Gateway,0,2,1
+6037540901,1,Willowbrook,1,3,0
+6037540901,1,Willowbrook,1,3,0
+6037540901,1,Willowbrook,0,3,0
+6037540901,1,Willowbrook,1,3,0
+6037291110,1,Harbor Gateway,0,2,0
+6037291110,1,Harbor Gateway,1,2,0
+6037241400,1,Green Meadows,1,3,1
+6037241400,1,Green Meadows,1,3,1
+6037241002,1,Green Meadows,0,3,1
+6037241002,1,Green Meadows,1,3,1
+6037241002,1,Green Meadows,1,3,1
+6037241300,0,South Vermont,0,4,1
+6037241300,0,South Vermont,0,4,1
+6037540501,2,Lynwood,0,4,1
+6037540600,1,Willowbrook,1,4,0
+6037540700,1,Willowbrook,1,3,0
+6037540700,1,Willowbrook,1,3,0
+6037540700,1,Willowbrook,0,3,0
+6037242600,1,Watts,0,3,1
+6037242600,1,Watts,0,3,1
+6037242600,1,Watts,0,3,1
+6037540400,0,Willowbrook,0,3,1
+6037540400,0,Willowbrook,1,3,1
+6037243100,2,Watts,0,4,1
+6037243100,2,Watts,1,4,1
+6037243100,2,Watts,1,4,1
+6037540300,1,Lynwood,0,4,2
+6037242700,1,Watts,0,3,1
+6037242700,1,Watts,0,3,1
+6037242700,1,Watts,1,3,1
+6037242700,1,Watts,1,3,1
+6037242700,1,Watts,1,3,1
+6037241001,1,Green Meadows,0,2,2
+6037241001,1,Green Meadows,0,2,2
+6037241001,1,Green Meadows,0,2,2
+6037241202,1,South Vermont,0,4,2
+6037241202,1,South Vermont,0,4,2
+6037241202,1,South Vermont,0,4,2
+6037241202,1,South Vermont,0,4,2
+6037241202,1,South Vermont,0,4,2
+6037600304,1,Athens/Westmont,1,4,1
+6037600304,1,Athens/Westmont,0,4,1
+6037241120,1,Green Meadows,0,4,2
+6037241120,1,Green Meadows,0,4,2
+6037241120,1,Green Meadows,0,4,2
+6037241120,1,Green Meadows,0,4,2
+6037241110,0,Green Meadows,0,4,2
+6037241110,0,Green Meadows,0,4,2
+6037240800,1,Green Meadows,0,3,1
+6037240800,1,Green Meadows,0,3,1
+6037240800,1,Green Meadows,1,3,1
+6037241201,1,South Vermont,0,4,1
+6037241201,1,South Vermont,1,4,1
+6037241201,1,South Vermont,0,4,1
+6037240402,1,South Vermont,0,3,0
+6037240402,1,South Vermont,0,3,0
+6037240402,1,South Vermont,1,3,0
+6037242000,1,Watts,1,3,0
+6037242000,1,Watts,1,3,0
+6037242000,1,Watts,1,3,0
+6037535607,1,South Gate,0,2,2
+6037242100,0,Watts,0,2,1
+6037535606,0,South Gate,1,3,2
+6037242300,1,Watts,1,2,0
+6037242300,1,Watts,1,2,0
+6037242300,1,Watts,1,2,0
+6037535200,2,Florence/Firestone,1,4,0
+6037535200,2,Florence/Firestone,1,4,0
+6037535200,2,Florence/Firestone,1,4,0
+6037535400,1,Florence/Firestone,0,3,1
+6037535400,1,Watts,0,3,1
+6037535400,1,Florence/Firestone,0,3,1
+6037535102,1,Florence/Firestone,1,4,1
+6037535101,2,Florence/Firestone,0,2,1
+6037535101,2,Florence/Firestone,0,2,1
+6037600302,0,Athens/Westmont,0,2,0
+6037600400,1,Athens/Westmont,0,3,1
+6037600400,1,Athens/Westmont,0,3,1
+6037600400,1,Athens/Westmont,0,3,1
+6037600202,2,Athens/Westmont,0,4,1
+6037600202,2,Athens/Westmont,0,4,1
+6037600202,2,Athens/Westmont,0,4,1
+6037240500,2,Green Meadows,0,3,1
+6037240500,2,Green Meadows,0,3,1
+6037240500,2,Green Meadows,1,3,1
+6037240500,2,Green Meadows,1,3,1
+6037240600,1,Green Meadows,1,2,2
+6037240600,1,Green Meadows,1,2,2
+6037240600,1,Green Meadows,1,2,2
+6037240600,1,Green Meadows,0,2,2
+6037240700,2,Green Meadows,2,4,1
+6037240700,2,Green Meadows,1,4,1
+6037240700,2,Green Meadows,1,4,1
+6037240700,2,Green Meadows,1,4,1
+6037240700,2,Green Meadows,1,4,1
+6037600201,1,Athens/Westmont,0,2,1
+6037600201,1,Athens/Westmont,0,2,1
+6037600201,1,Athens/Westmont,0,2,1
+6037240401,1,Green Meadows,0,4,0
+6037240401,1,Green Meadows,0,4,0
+6037240401,1,Green Meadows,0,4,0
+6037240020,1,Green Meadows,1,4,2
+6037240020,1,Green Meadows,1,4,2
+6037240020,1,Green Meadows,1,4,2
+6037600100,2,Athens/Westmont,0,3,2
+6037600100,2,Athens/Westmont,0,3,2
+6037600100,2,Athens/Westmont,0,3,2
+6037240200,2,Green Meadows,0,3,1
+6037240200,2,Green Meadows,0,3,1
+6037240200,2,Green Meadows,0,3,1
+6037238000,1,South Vermont,0,4,0
+6037238000,1,South Vermont,0,4,0
+6037238000,1,South Vermont,0,4,0
+6037238000,1,South Vermont,0,4,0
+6037238000,1,South Vermont,0,4,0
+6037238000,1,South Vermont,1,4,0
+6037600702,0,Inglewood,1,3,0
+6037600704,0,Inglewood,0,4,1
+6037600704,0,Inglewood,1,4,1
+6037238400,1,South Vermont,0,3,1
+6037238400,1,South Vermont,0,3,1
+6037238400,1,South Vermont,0,3,1
+6037238400,1,South Vermont,0,3,1
+6037238100,1,South Vermont,0,2,2
+6037238100,1,South Vermont,0,2,2
+6037238100,1,South Vermont,0,2,2
+6037238100,1,South Vermont,0,2,2
+6037277200,0,Westchester,0,4,2
+6037277200,0,Westchester,0,4,2
+6037278001,0,Westchester,1,2,2
+6037278001,0,Westchester,1,2,2
+6037601401,1,Inglewood,0,3,2
+6037277100,0,Westchester,2,1,2
+6037277100,0,Westchester,1,1,2
+6037277100,0,Westchester,2,1,2
+6037276400,0,Westchester,2,1,1
+6037276400,0,Westchester,1,1,1
+6037276400,0,Westchester,2,1,1
+6037276400,0,Westchester,2,1,1
+6037276400,0,Westchester,2,1,1
+6037276000,0,Westchester,1,1,2
+6037276000,0,Westchester,1,1,2
+6037276000,0,Westchester,2,1,2
+6037276000,0,Westchester,1,1,2
+6037276000,0,Westchester,1,1,2
+6037240010,1,Green Meadows,1,3,2
+6037240010,1,Green Meadows,0,3,2
+6037240010,1,Green Meadows,0,3,2
+6037238320,1,South Vermont,0,2,2
+6037238320,1,South Vermont,0,2,2
+6037238320,1,South Vermont,0,2,2
+6037239702,1,South Park,0,3,2
+6037239702,1,South Park,1,3,2
+6037239702,1,South Park,0,3,2
+6037239702,1,South Park,0,3,2
+6037239802,1,South Park,0,3,2
+6037239802,1,South Park,0,3,2
+6037239802,1,South Park,1,3,2
+6037239802,1,South Park,1,3,2
+6037238200,1,South Vermont,0,3,2
+6037238200,1,South Vermont,0,3,2
+6037238200,1,South Vermont,0,3,2
+6037238200,1,South Vermont,0,3,2
+6037238310,1,South Vermont,0,3,2
+6037238310,1,South Vermont,0,3,2
+6037239701,1,South Park,1,3,1
+6037239701,1,South Park,0,3,1
+6037239801,1,South Park,0,3,2
+6037239801,1,South Park,0,3,2
+6037239801,1,South Park,1,3,2
+6037237720,1,South Vermont,0,3,1
+6037237720,1,South Vermont,0,3,1
+6037239502,1,South Park,0,4,1
+6037239502,1,South Park,1,4,1
+6037239502,1,South Park,1,4,1
+6037600801,0,Inglewood,1,2,1
+6037600801,0,Inglewood,1,2,1
+6037600802,0,Inglewood,1,4,2
+6037237900,1,South Vermont,0,2,1
+6037237900,1,South Vermont,0,2,1
+6037237900,1,South Vermont,0,2,1
+6037237900,1,South Vermont,1,2,1
+6037235202,1,Crenshaw,0,4,1
+6037235202,1,Crenshaw,0,4,1
+6037235202,1,Crenshaw,0,4,1
+6037235201,0,Crenshaw,0,4,0
+6037235201,0,Crenshaw,1,4,0
+6037235201,0,Crenshaw,0,4,0
+6037600912,1,Inglewood,1,2,2
+6037600912,1,Inglewood,2,2,2
+6037237300,1,South Vermont,0,3,1
+6037237300,1,South Vermont,0,3,1
+6037237300,1,South Vermont,0,3,1
+6037237300,1,South Vermont,0,3,1
+6037237300,1,South Vermont,0,3,1
+6037237402,1,South Vermont,0,2,1
+6037237402,1,South Vermont,0,2,1
+6037237402,1,South Vermont,0,2,1
+6037234902,1,Crenshaw,0,4,2
+6037234902,1,Crenshaw,0,4,2
+6037234902,1,Crenshaw,0,4,2
+6037234901,1,Crenshaw,0,1,1
+6037234901,1,Crenshaw,0,1,1
+6037239602,1,South Park,1,3,0
+6037239602,1,South Park,0,3,0
+6037237800,1,South Vermont,1,4,1
+6037237800,1,South Vermont,0,4,1
+6037237800,1,South Vermont,0,4,1
+6037237800,1,South Vermont,0,4,1
+6037535001,1,Florence/Firestone,0,4,1
+6037535001,1,Florence/Firestone,0,4,1
+6037237710,1,South Vermont,0,3,1
+6037237710,1,South Vermont,0,3,1
+6037239601,1,South Park,0,2,0
+6037239601,1,South Park,1,2,0
+6037239501,1,South Park,0,3,1
+6037239501,1,South Park,1,3,1
+6037239501,1,South Park,1,3,1
+6037237500,1,South Vermont,0,4,0
+6037237500,1,South Vermont,0,4,0
+6037237401,1,South Vermont,0,3,0
+6037237401,1,South Vermont,0,3,0
+6037237401,1,South Vermont,1,3,0
+6037237600,1,South Vermont,1,2,1
+6037237600,1,South Vermont,0,2,1
+6037237600,1,South Vermont,0,2,1
+6037237600,1,South Vermont,0,2,1
+6037239310,1,South Park,0,2,0
+6037239310,1,South Park,0,2,0
+6037239310,1,South Park,0,2,0
+6037276601,0,Westchester,0,2,1
+6037276601,0,Westchester,2,2,1
+6037276601,0,Westchester,2,2,1
+6037276601,0,Westchester,2,2,1
+6037276500,0,Westchester,2,3,1
+6037276500,0,Westchester,2,3,1
+6037274202,0,Venice,0,2,2
+6037274202,0,Venice,1,2,2
+6037274202,0,Venice,0,2,2
+6037274202,0,Venice,0,2,2
+6037273902,0,Venice,2,2,1
+6037273902,0,Venice,1,2,1
+6037273902,0,Venice,0,2,1
+6037273902,0,Venice,2,2,1
+6037273902,0,Venice,2,2,1
+6037273502,0,Venice,0,1,2
+6037273502,0,Venice,0,1,2
+6037273502,0,Venice,1,1,2
+6037273502,0,Venice,2,1,2
+6037274100,1,Venice,1,4,1
+6037274100,1,Venice,2,4,1
+6037601302,2,Inglewood,1,2,0
+6037277000,0,Westchester,1,3,2
+6037277000,0,Westchester,2,3,2
+6037277000,0,Westchester,1,3,2
+6037277000,0,Westchester,1,3,2
+6037277000,0,Westchester,2,3,2
+6037600911,0,Inglewood,1,2,1
+6037600911,0,Inglewood,2,2,1
+6037601301,0,Inglewood,2,2,0
+6037601301,0,Inglewood,1,2,0
+6037239320,1,South Park,0,2,0
+6037239320,1,South Park,0,2,0
+6037239330,0,South Park,1,2,1
+6037239330,0,South Park,0,2,1
+6037237101,1,South Vermont,0,3,0
+6037237101,1,South Vermont,0,3,0
+6037237101,1,South Vermont,0,3,0
+6037237101,1,South Vermont,1,3,0
+6037237101,1,South Vermont,0,3,0
+6037239202,1,South Park,0,2,1
+6037239202,1,South Park,0,2,1
+6037239202,1,South Park,0,2,1
+6037237102,1,South Vermont,0,2,1
+6037237102,1,South Vermont,0,2,1
+6037239201,1,South Park,0,3,1
+6037239201,1,South Park,0,3,1
+6037239201,1,South Park,0,3,1
+6037229410,1,South Park,0,4,1
+6037229410,1,South Park,0,4,1
+6037275311,1,Mar Vista,1,2,2
+6037275311,1,Mar Vista,1,2,2
+6037275311,1,Mar Vista,1,2,2
+6037275311,1,Mar Vista,2,2,2
+6037275400,0,Mar Vista,2,2,2
+6037275400,0,Mar Vista,0,2,2
+6037273600,0,Venice,3,3,1
+6037273600,0,Venice,3,3,1
+6037273600,0,Venice,2,3,1
+6037273600,0,Venice,2,3,1
+6037273800,0,Venice,2,3,1
+6037273800,0,Venice,1,3,1
+6037273800,0,Venice,3,3,1
+6037702803,0,Mar Vista,1,2,1
+6037702803,0,Culver City,1,2,1
+6037702803,0,Culver City,0,2,1
+6037275200,1,Mar Vista,1,1,2
+6037275200,1,Mar Vista,2,1,2
+6037275200,1,Mar Vista,1,1,2
+6037273300,0,Venice,1,3,2
+6037273300,0,Venice,2,3,2
+6037273300,0,Venice,2,3,2
+6037273200,0,Venice,2,1,2
+6037273200,0,Venice,2,1,2
+6037273200,0,Venice,3,1,2
+6037273200,0,Venice,1,1,2
+6037234800,0,Crenshaw,1,2,1
+6037234800,0,Crenshaw,0,2,1
+6037234800,0,Crenshaw,0,2,1
+6037234800,0,Crenshaw,0,2,1
+6037237202,1,South Vermont,1,4,2
+6037237202,1,South Vermont,0,4,2
+6037237202,1,South Vermont,0,4,2
+6037237202,1,South Vermont,0,4,2
+6037235100,1,Crenshaw,1,3,1
+6037235100,1,Crenshaw,1,3,1
+6037235100,1,Crenshaw,1,3,1
+6037235100,1,Crenshaw,1,3,1
+6037237201,0,South Vermont,0,2,1
+6037237201,0,South Vermont,1,2,1
+6037237201,0,South Vermont,1,2,1
+6037234700,1,Crenshaw,0,3,1
+6037234700,1,Crenshaw,0,3,1
+6037234700,1,Crenshaw,0,3,1
+6037234700,1,Crenshaw,0,3,1
+6037232500,1,Vermont Square,0,3,1
+6037232500,1,Vermont Square,1,3,1
+6037232500,1,Vermont Square,0,3,1
+6037232500,1,Vermont Square,1,3,1
+6037234600,1,Crenshaw,0,4,0
+6037234600,1,Crenshaw,0,4,0
+6037234600,1,Crenshaw,1,4,0
+6037234600,1,Crenshaw,0,4,0
+6037234501,0,Crenshaw,1,2,0
+6037234501,0,Crenshaw,1,2,0
+6037703200,1,View Park/Windsor Hills,1,3,2
+6037703200,1,View Park/Windsor Hills,2,3,2
+6037703200,1,View Park/Windsor Hills,1,3,2
+6037703200,1,View Park/Windsor Hills,2,3,2
+6037275603,0,Barnes City,1,2,2
+6037275603,0,Barnes City,1,2,2
+6037275603,0,Barnes City,2,2,2
+6037703002,1,Ladera Heights,1,2,1
+6037703002,1,Ladera Heights,0,2,1
+6037703002,1,Ladera Heights,1,2,1
+6037275500,1,Barnes City,1,2,2
+6037275500,1,Barnes City,2,2,2
+6037275500,1,Barnes City,1,2,2
+6037275500,1,Barnes City,1,2,2
+6037703100,1,View Park/Windsor Hills,2,0,1
+6037703100,1,View Park/Windsor Hills,2,0,1
+6037703100,1,View Park/Windsor Hills,1,0,1
+6037703100,1,View Park/Windsor Hills,0,0,1
+6037702600,1,Culver City,2,2,0
+6037702600,1,Culver City,1,2,0
+6037275102,1,Barnes City,2,2,2
+6037275102,1,Barnes City,2,2,2
+6037275101,0,Barnes City,1,1,1
+6037702802,0,Culver City,2,2,1
+6037702802,0,Culver City,2,2,1
+6037702700,0,Culver City,2,3,1
+6037702700,0,Culver City,2,3,1
+6037702700,0,Culver City,2,3,1
+6037232800,1,Vermont Square,0,3,1
+6037232800,1,Vermont Square,0,3,1
+6037229420,1,South Park,0,3,1
+6037229420,1,South Park,1,3,1
+6037232300,1,Vermont Square,1,1,2
+6037232300,1,Vermont Square,0,1,2
+6037232300,1,Vermont Square,0,1,2
+6037229300,2,South Park,0,3,0
+6037229300,2,South Park,1,3,0
+6037229300,2,South Park,0,3,0
+6037229200,1,South Park,1,4,0
+6037229200,1,South Park,1,4,0
+6037228710,1,South Park,1,3,0
+6037228710,1,South Park,1,3,0
+6037232110,1,Vermont Square,0,3,2
+6037232110,1,Vermont Square,0,3,2
+6037232120,1,Vermont Square,1,3,1
+6037232120,1,Vermont Square,0,3,1
+6037232120,1,Vermont Square,0,3,1
+6037272202,0,Mar Vista,0,2,2
+6037272202,0,Mar Vista,2,2,2
+6037273700,0,Venice,3,2,2
+6037273700,0,Venice,3,2,2
+6037273700,0,Venice,2,2,2
+6037702102,1,Santa Monica,1,1,2
+6037702102,1,Santa Monica,2,1,2
+6037702102,1,Santa Monica,2,1,2
+6037702102,1,Santa Monica,2,1,2
+6037272201,0,Mar Vista,1,2,1
+6037272201,0,Mar Vista,1,2,1
+6037272302,1,Mar Vista,2,2,0
+6037272302,1,Mar Vista,1,2,0
+6037273100,0,Venice,2,1,2
+6037273100,0,Venice,2,1,2
+6037273100,0,Venice,3,1,2
+6037272100,0,Mar Vista,2,2,1
+6037272100,0,Mar Vista,2,2,1
+6037272100,0,Mar Vista,2,2,1
+6037272100,0,Mar Vista,2,2,1
+6037272100,0,Mar Vista,3,2,1
+6037272301,0,Mar Vista,2,1,0
+6037272301,0,Mar Vista,2,1,0
+6037272301,0,Mar Vista,2,1,0
+6037702202,0,Santa Monica,2,2,2
+6037702202,0,Santa Monica,3,2,2
+6037232200,1,Vermont Square,1,1,2
+6037232200,1,Vermont Square,1,1,2
+6037232200,1,Vermont Square,0,1,2
+6037228500,1,South Park,0,4,0
+6037228500,1,South Park,0,4,0
+6037228500,1,South Park,1,4,0
+6037228600,1,South Park,0,4,0
+6037228600,1,South Park,0,4,0
+6037231710,1,Vermont Square,1,3,2
+6037231710,1,Vermont Square,1,3,2
+6037231710,1,Vermont Square,0,3,2
+6037231720,1,Vermont Square,0,3,1
+6037231720,1,Vermont Square,0,3,1
+6037231720,1,Vermont Square,1,3,1
+6037231800,1,Vermont Square,0,3,1
+6037231800,1,Vermont Square,0,3,1
+6037231800,1,Vermont Square,0,3,1
+6037228420,0,South Park,1,3,1
+6037228420,0,South Park,0,3,1
+6037228320,0,South Park,2,3,1
+6037228320,0,South Park,1,3,1
+6037228320,0,South Park,1,3,1
+6037234502,0,Crenshaw,0,3,1
+6037234502,0,Crenshaw,1,3,1
+6037234502,0,Crenshaw,1,3,1
+6037236400,0,Crenshaw,1,2,2
+6037236400,0,Crenshaw,2,2,2
+6037236400,0,Crenshaw,2,2,2
+6037231500,1,Vermont Square,0,2,1
+6037231500,1,Vermont Square,0,2,1
+6037231500,1,Vermont Square,0,2,1
+6037702801,1,Culver City,1,3,1
+6037702502,0,Culver City,1,2,2
+6037702501,0,Culver City,1,1,0
+6037271801,0,Mar Vista,2,3,2
+6037271801,0,Mar Vista,2,3,2
+6037271801,0,Mar Vista,0,3,2
+6037269903,0,Palms,0,2,1
+6037231400,1,West Adams/Exposition Park,1,3,0
+6037231400,1,West Adams/Exposition Park,1,3,0
+6037231400,1,West Adams/Exposition Park,0,3,0
+6037236204,1,Crenshaw,1,3,2
+6037236204,1,Crenshaw,1,3,2
+6037234200,0,Crenshaw,1,2,2
+6037234200,0,Crenshaw,1,2,2
+6037234200,0,Crenshaw,0,2,2
+6037236203,1,Crenshaw,1,4,1
+6037236203,1,Crenshaw,1,4,1
+6037219500,0,Adams/La Brea,1,1,2
+6037219500,0,Adams/La Brea,1,1,2
+6037222500,1,West Adams/Exposition Park,1,2,1
+6037222500,1,West Adams/Exposition Park,1,2,1
+6037222500,1,West Adams/Exposition Park,1,2,1
+6037228310,1,South Park,0,3,1
+6037228310,1,South Park,1,3,1
+6037228310,1,South Park,1,3,1
+6037228310,1,South Park,1,3,1
+6037228410,0,South Park,1,3,2
+6037228410,0,South Park,0,3,2
+6037228410,0,South Park,1,3,2
+6037231220,1,West Adams/Exposition Park,1,3,2
+6037231220,1,West Adams/Exposition Park,1,3,2
+6037231210,1,West Adams/Exposition Park,0,3,1
+6037231210,1,West Adams/Exposition Park,1,3,1
+6037231100,1,Vermont Square,1,3,2
+6037231100,1,Vermont Square,0,3,2
+6037231100,1,Vermont Square,0,3,2
+6037222700,0,West Adams/Exposition Park,2,3,2
+6037226420,1,South Park,1,4,2
+6037226420,1,South Park,0,4,2
+6037226420,1,South Park,1,4,2
+6037222600,1,West Adams/Exposition Park,2,2,2
+6037222600,1,West Adams/Exposition Park,1,2,2
+6037222600,1,West Adams/Exposition Park,1,2,2
+6037532900,2,Florence/Firestone,1,4,0
+6037532900,2,Florence/Firestone,0,4,0
+6037532700,0,Florence/Firestone,0,2,1
+6037532800,1,Florence/Firestone,0,3,0
+6037228900,1,South Park,1,2,1
+6037228900,1,South Park,0,2,1
+6037229100,1,South Park,1,4,1
+6037229100,1,South Park,1,4,1
+6037228800,2,South Park,0,4,1
+6037228800,2,South Park,0,4,1
+6037228800,2,South Park,1,4,1
+6037228800,2,South Park,1,4,1
+6037228720,1,South Park,1,3,0
+6037228720,1,South Park,1,3,0
+6037228720,1,South Park,1,3,0
+6037228220,1,South Park,1,3,0
+6037228220,1,South Park,1,3,0
+6037228220,1,South Park,0,3,0
+6037228100,1,South Park,0,3,2
+6037228100,1,South Park,1,3,2
+6037228100,1,South Park,1,3,2
+6037228210,1,South Park,1,4,1
+6037228210,1,South Park,1,4,1
+6037227020,1,South Park,0,3,2
+6037227020,1,South Park,1,3,2
+6037204920,0,Boyle Heights,0,2,1
+6037204920,0,Boyle Heights,0,2,1
+6037532302,1,Commerce,0,3,2
+6037531302,2,East Los Angeles,0,3,1
+6037531302,2,East Los Angeles,0,3,1
+6037531301,1,East Los Angeles,0,2,1
+6037531202,1,East Los Angeles,0,2,0
+6037227010,1,South Park,0,3,2
+6037227010,1,South Park,1,3,2
+6037205120,1,Boyle Heights,0,3,2
+6037205120,1,Boyle Heights,0,3,2
+6037204820,0,Boyle Heights,1,4,1
+6037204820,0,Boyle Heights,0,4,1
+6037205110,1,Boyle Heights,2,3,2
+6037226001,0,South Park,0,4,2
+6037226001,0,South Park,0,4,2
+6037204910,1,Boyle Heights,0,2,0
+6037204810,1,Boyle Heights,0,3,0
+6037204810,1,Boyle Heights,0,3,0
+6037204810,1,Boyle Heights,1,3,0
+6037206050,0,Wholesale,0,1,2
+6037204700,1,Boyle Heights,1,2,2
+6037204700,1,Boyle Heights,1,2,2
+6037204700,1,Boyle Heights,0,2,2
+6037226002,1,Downtown,0,2,2
+6037226002,1,Downtown,0,2,2
+6037204120,0,Boyle Heights,1,2,1
+6037204120,0,Boyle Heights,0,2,1
+6037203900,1,Boyle Heights,0,1,1
+6037203900,1,Boyle Heights,0,1,1
+6037203900,1,Boyle Heights,0,1,1
+6037204600,1,Boyle Heights,2,3,2
+6037204600,1,Boyle Heights,0,3,2
+6037204300,1,Boyle Heights,1,2,2
+6037204300,1,Boyle Heights,1,2,2
+6037204300,1,Boyle Heights,0,2,2
+6037204300,1,Boyle Heights,1,2,2
+6037204110,0,Boyle Heights,1,4,1
+6037204110,0,Boyle Heights,0,4,1
+6037204110,0,Boyle Heights,0,4,1
+6037204200,1,Boyle Heights,0,2,1
+6037204200,1,Boyle Heights,0,2,1
+6037269905,0,Culver City,0,2,1
+6037269905,0,Palms,0,2,1
+6037220100,0,Adams/La Brea,1,1,2
+6037220100,0,Adams/La Brea,0,1,2
+6037220100,0,Adams/La Brea,1,1,2
+6037269906,0,Palms,1,1,1
+6037702400,0,Culver City,2,1,2
+6037702400,0,Culver City,1,1,2
+6037702400,0,Culver City,2,1,2
+6037702400,0,Culver City,0,1,2
+6037702400,0,Culver City,1,1,2
+6037269907,0,Palms,1,1,1
+6037219901,1,Adams/La Brea,1,3,1
+6037219901,1,Adams/La Brea,1,3,1
+6037219901,1,Adams/La Brea,1,3,1
+6037222002,1,West Adams/Exposition Park,0,3,1
+6037222002,1,West Adams/Exposition Park,1,3,1
+6037222002,1,West Adams/Exposition Park,1,3,1
+6037222002,1,West Adams/Exposition Park,1,3,1
+6037219020,1,West Adams/Exposition Park,1,3,0
+6037219020,1,West Adams/Exposition Park,0,3,0
+6037219020,1,West Adams/Exposition Park,0,3,0
+6037219300,1,Adams/La Brea,0,2,1
+6037219300,1,Adams/La Brea,0,2,1
+6037219300,1,Adams/La Brea,0,2,1
+6037222100,1,West Adams/Exposition Park,1,3,2
+6037222100,1,West Adams/Exposition Park,1,3,2
+6037222100,1,West Adams/Exposition Park,1,3,2
+6037219010,0,West Adams/Exposition Park,1,3,0
+6037219010,0,West Adams/Exposition Park,1,3,0
+6037220000,1,Adams/La Brea,1,3,1
+6037220000,1,Adams/La Brea,1,3,1
+6037220000,1,Adams/La Brea,1,3,1
+6037220000,1,Adams/La Brea,1,3,1
+6037220000,1,Adams/La Brea,0,3,1
+6037219700,1,Adams/La Brea,1,2,0
+6037219700,1,Adams/La Brea,1,2,0
+6037219700,1,Adams/La Brea,1,2,0
+6037222001,0,West Adams/Exposition Park,1,2,0
+6037222001,0,West Adams/Exposition Park,1,2,0
+6037222200,1,West Adams/Exposition Park,2,3,2
+6037222200,1,West Adams/Exposition Park,1,3,2
+6037218702,0,West Adams/Exposition Park,1,2,1
+6037218702,0,West Adams/Exposition Park,1,2,1
+6037224600,1,South Park,0,3,2
+6037224600,1,South Park,0,3,2
+6037226410,1,South Park,0,3,2
+6037226410,1,South Park,0,3,2
+6037221900,1,West Adams/Exposition Park,1,4,2
+6037221900,1,West Adams/Exposition Park,1,4,2
+6037221820,0,West Adams/Exposition Park,2,4,2
+6037221820,0,West Adams/Exposition Park,2,4,2
+6037221810,0,West Adams/Exposition Park,1,3,2
+6037221810,0,West Adams/Exposition Park,1,3,2
+6037224020,1,South Park,0,4,2
+6037224020,1,South Park,0,4,2
+6037224420,0,Westlake,2,3,2
+6037224420,0,Westlake,1,3,2
+6037224410,0,Westlake,1,4,2
+6037224410,0,Westlake,1,4,2
+6037271200,0,West LA,1,2,2
+6037271200,0,West LA,1,2,2
+6037701701,0,Santa Monica,2,2,2
+6037271100,0,West LA,2,3,1
+6037271100,0,West LA,2,3,1
+6037271100,0,West LA,3,3,1
+6037267600,0,West LA,0,2,1
+6037267600,0,West LA,2,2,1
+6037267600,0,West LA,0,2,1
+6037701602,1,Santa Monica,1,2,2
+6037267502,0,West LA,2,2,2
+6037267502,0,West LA,1,2,2
+6037267700,0,West LA,0,2,1
+6037267700,0,West LA,0,2,1
+6037701601,0,Santa Monica,3,1,2
+6037267800,0,West LA,2,3,1
+6037267800,0,West LA,1,3,1
+6037267800,0,West LA,2,3,1
+6037219800,0,Adams/La Brea,1,1,0
+6037219800,0,Adams/La Brea,1,1,0
+6037219800,0,Adams/La Brea,1,1,0
+6037219902,1,Adams/La Brea,0,2,2
+6037219902,1,Adams/La Brea,1,2,2
+6037219902,1,Adams/La Brea,1,2,2
+6037270200,0,Palms,1,3,2
+6037270200,0,Palms,1,3,2
+6037270200,0,Palms,1,3,2
+6037269800,0,Palms,1,1,2
+6037269800,0,Palms,2,1,2
+6037269700,0,Palms,2,1,2
+6037269700,0,Palms,2,1,2
+6037269700,0,Palms,2,1,2
+6037269700,0,Palms,1,1,2
+6037218400,1,Adams/La Brea,1,3,1
+6037218400,1,Adams/La Brea,1,3,1
+6037218400,1,Adams/La Brea,1,3,1
+6037218400,1,Adams/La Brea,0,3,1
+6037270300,0,Palms,1,2,2
+6037270300,0,Palms,0,2,2
+6037270300,0,Palms,0,2,2
+6037269300,0,Palms,3,2,1
+6037269300,0,Palms,3,2,1
+6037269300,0,Palms,3,2,1
+6037269300,0,Palms,3,2,1
+6037269300,0,Palms,2,2,1
+6037218300,1,Adams/La Brea,1,2,2
+6037218300,1,Adams/La Brea,1,2,2
+6037218300,1,Adams/La Brea,1,2,2
+6037218300,1,Adams/La Brea,0,2,2
+6037218300,1,Adams/La Brea,1,2,2
+6037269601,0,Palms,0,3,1
+6037269601,0,Palms,0,3,1
+6037269601,0,Palms,0,3,1
+6037218900,1,West Adams/Exposition Park,1,2,1
+6037218900,1,West Adams/Exposition Park,1,2,1
+6037218900,1,West Adams/Exposition Park,2,2,1
+6037221401,1,West Adams/Exposition Park,2,4,1
+6037221401,1,West Adams/Exposition Park,2,4,1
+6037221500,1,West Adams/Exposition Park,1,3,2
+6037221500,1,West Adams/Exposition Park,1,3,2
+6037218600,0,Adams/La Brea,1,2,1
+6037218600,0,Adams/La Brea,1,2,1
+6037218600,0,Adams/La Brea,0,2,1
+6037218701,0,West Adams/Exposition Park,2,4,0
+6037218701,0,West Adams/Exposition Park,0,4,0
+6037218800,0,West Adams/Exposition Park,0,4,0
+6037218800,0,West Adams/Exposition Park,1,4,0
+6037218500,0,Adams/La Brea,1,3,1
+6037218500,0,Adams/La Brea,1,3,1
+6037221402,0,West Adams/Exposition Park,1,2,2
+6037221402,0,West Adams/Exposition Park,1,2,2
+6037221302,1,West Adams/Exposition Park,1,4,2
+6037221302,1,West Adams/Exposition Park,1,4,2
+6037218210,1,Adams/La Brea,0,3,1
+6037218210,1,Adams/La Brea,0,3,1
+6037218210,1,Adams/La Brea,1,3,1
+6037221710,0,West Adams/Exposition Park,1,3,2
+6037221710,0,West Adams/Exposition Park,1,3,2
+6037221601,1,West Adams/Exposition Park,1,2,2
+6037221601,1,West Adams/Exposition Park,1,2,2
+6037224010,1,Downtown,0,3,2
+6037224010,1,Downtown,0,3,2
+6037221602,0,West Adams/Exposition Park,0,3,2
+6037221602,0,West Adams/Exposition Park,0,3,2
+6037221602,0,West Adams/Exposition Park,0,3,2
+6037224200,0,Westlake,0,3,1
+6037224200,0,Westlake,0,3,1
+6037224320,1,Westlake,1,3,1
+6037224320,1,Westlake,1,3,1
+6037221120,1,West Adams/Exposition Park,1,3,1
+6037221120,1,West Adams/Exposition Park,0,3,1
+6037269500,0,Palms,3,0,1
+6037269500,0,Palms,3,0,1
+6037269500,0,Palms,3,0,1
+6037269500,0,Palms,3,0,1
+6037269602,0,Palms,1,2,0
+6037269602,0,Palms,2,2,0
+6037269000,0,Palms,2,1,2
+6037269000,0,Palms,3,1,2
+6037269000,0,Palms,3,1,2
+6037269000,0,Palms,2,1,2
+6037269000,0,Palms,3,1,2
+6037216700,0,Miracle Mile,1,2,1
+6037216700,0,Miracle Mile,1,2,1
+6037216700,0,Miracle Mile,1,2,1
+6037217002,1,Miracle Mile,2,2,0
+6037217002,1,Miracle Mile,1,2,0
+6037217002,1,Miracle Mile,1,2,0
+6037217001,0,Miracle Mile,1,2,0
+6037217001,0,Miracle Mile,2,2,0
+6037217001,0,Miracle Mile,1,2,0
+6037269100,1,Palms,1,3,1
+6037269100,1,Palms,1,3,1
+6037269100,1,Palms,1,3,1
+6037269100,1,Palms,2,3,1
+6037224310,0,Westlake,1,1,1
+6037224310,0,Westlake,1,1,1
+6037221220,1,West Adams/Exposition Park,0,3,2
+6037221220,1,West Adams/Exposition Park,1,3,2
+6037221110,1,West Adams/Exposition Park,0,2,1
+6037221110,1,West Adams/Exposition Park,0,2,1
+6037210010,1,Westlake,0,2,1
+6037210010,1,Westlake,1,2,1
+6037210010,1,Westlake,2,2,1
+6037209820,0,Westlake,1,2,0
+6037209820,0,Westlake,1,2,0
+6037209810,0,Westlake,1,3,0
+6037209810,0,Westlake,0,3,0
+6037213402,1,Miracle Mile,1,3,1
+6037213402,1,Miracle Mile,1,3,1
+6037213402,1,Miracle Mile,0,3,1
+6037209520,0,Westlake,0,2,0
+6037209520,0,Westlake,0,2,0
+6037218220,1,Adams/La Brea,0,3,1
+6037218220,1,Adams/La Brea,1,3,1
+6037218220,1,Adams/La Brea,3,3,1
+6037221210,0,West Adams/Exposition Park,1,2,2
+6037221210,0,West Adams/Exposition Park,1,2,2
+6037218120,1,West Adams/Exposition Park,1,1,1
+6037218120,1,West Adams/Exposition Park,0,1,1
+6037218120,1,West Adams/Exposition Park,0,1,1
+6037218110,1,West Adams/Exposition Park,1,3,0
+6037218110,1,West Adams/Exposition Park,1,3,0
+6037221304,1,West Adams/Exposition Park,0,3,2
+6037221304,1,West Adams/Exposition Park,1,3,2
+6037221303,0,West Adams/Exposition Park,1,2,2
+6037221303,0,West Adams/Exposition Park,0,2,2
+6037213202,1,Miracle Mile,0,2,1
+6037213202,1,Miracle Mile,0,2,1
+6037217200,1,Miracle Mile,1,2,1
+6037217200,1,Miracle Mile,1,2,1
+6037217200,1,Miracle Mile,0,2,1
+6037217200,1,Miracle Mile,1,2,1
+6037212900,1,Miracle Mile,1,2,1
+6037212900,1,Miracle Mile,0,2,1
+6037213100,0,Miracle Mile,1,3,1
+6037213100,0,Miracle Mile,2,3,1
+6037531201,2,East Los Angeles,0,1,1
+6037531101,3,East Los Angeles,0,2,1
+6037531101,3,East Los Angeles,0,2,1
+6037531101,3,East Los Angeles,0,2,1
+6037531101,3,East Los Angeles,0,2,1
+6037530901,3,East Los Angeles,1,2,1
+6037530901,3,East Los Angeles,0,2,1
+6037204420,1,Boyle Heights,1,2,2
+6037204420,1,Boyle Heights,0,2,2
+6037203800,3,Boyle Heights,1,2,0
+6037203800,3,Boyle Heights,1,2,0
+6037203800,3,Boyle Heights,0,2,0
+6037203800,3,Boyle Heights,0,2,0
+6037204410,0,Boyle Heights,0,3,2
+6037204410,0,Boyle Heights,0,3,2
+6037203720,1,Boyle Heights,0,3,0
+6037203720,1,Boyle Heights,0,3,0
+6037203720,1,Boyle Heights,0,3,0
+6037213310,0,Miracle Mile,0,2,2
+6037213310,0,Miracle Mile,0,2,2
+6037209300,1,Westlake,0,3,1
+6037209300,1,Westlake,0,3,1
+6037213320,0,Miracle Mile,0,2,1
+6037213320,0,Miracle Mile,0,2,1
+6037207502,1,Downtown,1,2,0
+6037209510,0,Westlake,0,4,0
+6037209510,0,Westlake,0,4,0
+6037209403,1,Westlake,0,4,0
+6037209403,1,Westlake,0,4,0
+6037213401,1,Miracle Mile,0,2,1
+6037213401,1,Miracle Mile,1,2,1
+6037209402,1,Westlake,0,2,0
+6037209402,1,Westlake,0,2,0
+6037203710,2,Boyle Heights,0,2,0
+6037203710,2,Boyle Heights,0,2,0
+6037203200,3,Boyle Heights,1,2,0
+6037203200,3,Boyle Heights,1,2,0
+6037203500,0,Boyle Heights,1,2,2
+6037203500,0,Boyle Heights,0,2,2
+6037203500,0,Boyle Heights,0,2,2
+6037207400,0,Downtown,1,3,0
+6037530801,4,East Los Angeles,1,1,1
+6037530801,4,East Los Angeles,1,1,1
+6037482001,2,Monterey Park,1,0,2
+6037530700,1,East Los Angeles,0,2,1
+6037212306,0,Miracle Mile,0,4,1
+6037212306,0,Miracle Mile,0,4,1
+6037212202,1,Miracle Mile,0,3,1
+6037212202,1,Miracle Mile,0,3,1
+6037208902,0,Westlake,0,3,1
+6037208902,0,Westlake,0,3,1
+6037207501,0,Downtown,2,1,0
+6037209401,1,Westlake,0,3,0
+6037209401,1,Westlake,0,3,0
+6037209103,1,Westlake,0,3,1
+6037209104,0,Westlake,1,3,1
+6037208903,1,Westlake,0,2,1
+6037208903,1,Westlake,0,2,1
+6037208904,1,Westlake,0,4,1
+6037208904,1,Westlake,0,4,1
+6037212304,0,Miracle Mile,0,3,1
+6037212203,1,Miracle Mile,0,3,1
+6037212203,1,Miracle Mile,0,3,1
+6037212303,1,Miracle Mile,0,3,1
+6037212204,1,Miracle Mile,0,3,0
+6037212204,1,Miracle Mile,0,3,0
+6037208801,1,Westlake,3,2,1
+6037208801,1,Westlake,1,2,1
+6037208802,0,Westlake,1,4,0
+6037208802,0,Westlake,2,4,0
+6037208301,0,Westlake,1,2,1
+6037206020,1,Wholesale,0,1,1
+6037207102,1,Silverlake,0,2,0
+6037203100,4,Boyle Heights,0,2,1
+6037203100,4,Boyle Heights,2,2,1
+6037203100,4,Boyle Heights,0,2,1
+6037203300,1,Boyle Heights,0,3,1
+6037207101,1,Silverlake,0,3,0
+6037199900,1,Lincoln Heights,0,3,1
+6037199900,1,Lincoln Heights,0,3,1
+6037207103,0,Silverlake,0,3,0
+6037207103,0,Silverlake,0,3,0
+6037199700,1,Lincoln Heights,0,3,1
+6037199700,1,Lincoln Heights,0,3,1
+6037197600,0,Silverlake,2,2,0
+6037197600,0,Silverlake,1,2,0
+6037197700,1,Silverlake,1,4,1
+6037197700,1,Silverlake,1,4,1
+6037197700,1,Silverlake,0,4,1
+6037267902,0,West LA,2,1,2
+6037267902,0,West LA,2,1,2
+6037267902,0,West LA,2,1,2
+6037267403,0,West LA,1,2,0
+6037267403,0,West LA,0,2,0
+6037212800,1,Miracle Mile,1,3,0
+6037212800,1,Miracle Mile,1,3,0
+6037212800,1,Miracle Mile,1,3,0
+6037213201,1,Miracle Mile,0,3,1
+6037213201,1,Miracle Mile,0,3,1
+6037213201,1,Miracle Mile,0,3,1
+6037212701,0,Miracle Mile,1,3,1
+6037212501,0,Miracle Mile,1,2,0
+6037212420,0,Miracle Mile,1,3,1
+6037212420,0,Miracle Mile,0,3,1
+6037212305,0,Miracle Mile,0,3,1
+6037212620,1,Miracle Mile,2,3,0
+6037212620,1,Miracle Mile,0,3,0
+6037216100,0,Miracle Mile,3,2,0
+6037216100,0,Miracle Mile,2,2,0
+6037216100,0,Miracle Mile,2,2,0
+6037212702,0,Miracle Mile,2,3,0
+6037212702,0,Miracle Mile,2,3,0
+6037212702,0,Miracle Mile,3,3,0
+6037264103,0,West LA,1,1,0
+6037265601,0,Westwood,1,2,1
+6037265601,0,Westwood,2,2,1
+6037264000,0,West LA,4,2,1
+6037264000,0,West LA,3,2,1
+6037264000,0,West LA,3,2,1
+6037264102,0,West LA,3,1,1
+6037265602,0,Westwood,2,3,1
+6037265602,0,Westwood,2,3,1
+6037216800,0,Miracle Mile,1,2,2
+6037216800,0,Miracle Mile,2,2,2
+6037216800,0,Miracle Mile,2,2,2
+6037216800,0,Miracle Mile,2,2,2
+6037216401,1,Miracle Mile,0,2,1
+6037216401,1,Miracle Mile,1,2,1
+6037267901,0,West LA,1,1,2
+6037267901,0,West LA,3,1,2
+6037701000,1,Beverly Hills,2,1,2
+6037701000,1,Beverly Hills,2,1,2
+6037701000,1,Beverly Hills,1,1,2
+6037216402,0,Miracle Mile,1,3,2
+6037216402,0,Miracle Mile,1,3,2
+6037700902,1,Beverly Hills,2,3,2
+6037700902,1,Beverly Hills,2,3,2
+6037700901,0,Beverly Hills,2,3,2
+6037700901,0,Beverly Hills,1,3,2
+6037700901,0,Beverly Hills,1,3,2
+6037212502,1,Miracle Mile,0,3,0
+6037212502,1,Miracle Mile,0,3,0
+6037212410,1,Miracle Mile,1,3,0
+6037212410,1,Miracle Mile,0,3,0
+6037212610,1,Miracle Mile,1,2,0
+6037212610,1,Miracle Mile,1,2,0
+6037211802,1,Miracle Mile,0,3,0
+6037211802,1,Miracle Mile,0,3,0
+6037212102,0,Miracle Mile,1,3,1
+6037212102,0,Miracle Mile,0,3,1
+6037211704,0,Miracle Mile,0,2,0
+6037211704,0,Miracle Mile,0,2,0
+6037215102,0,Miracle Mile,0,2,1
+6037215102,0,Miracle Mile,0,2,1
+6037211701,0,Hancock Park,2,2,1
+6037211701,0,Hancock Park,3,2,1
+6037211701,0,Hancock Park,2,2,1
+6037265410,0,Westwood,3,2,2
+6037265410,0,Westwood,3,2,2
+6037262303,0,Brentwood,4,0,2
+6037262303,0,Brentwood,4,0,2
+6037262303,0,Brentwood,4,0,2
+6037265201,0,Westwood,3,4,1
+6037265201,0,Westwood,2,4,1
+6037265303,0,Westwood,2,4,2
+6037265303,0,Westwood,2,4,2
+6037265304,0,Westwood,2,4,2
+6037265304,0,Westwood,2,4,2
+6037265420,0,Westwood,3,2,2
+6037265420,0,Westwood,3,2,2
+6037211703,1,Miracle Mile,0,3,1
+6037211703,1,Miracle Mile,0,3,1
+6037211804,1,Miracle Mile,0,2,1
+6037211804,1,Miracle Mile,0,2,1
+6037211803,1,Miracle Mile,0,3,1
+6037211803,1,Miracle Mile,1,3,1
+6037211910,1,Miracle Mile,0,3,1
+6037211910,1,Miracle Mile,0,3,1
+6037211910,1,Miracle Mile,0,3,1
+6037211000,1,Hancock Park,3,3,1
+6037211000,1,Hancock Park,1,3,1
+6037211000,1,Hancock Park,3,3,1
+6037211000,1,Hancock Park,3,3,1
+6037211000,1,Hancock Park,3,3,1
+6037211000,1,Hancock Park,3,3,1
+6037211310,1,Miracle Mile,0,3,1
+6037211310,1,Miracle Mile,0,3,1
+6037211500,1,Hancock Park,2,3,0
+6037211500,1,Hancock Park,3,3,0
+6037211500,1,Hancock Park,2,3,0
+6037211410,0,Miracle Mile,0,4,0
+6037211410,0,Miracle Mile,0,4,0
+6037211420,1,Miracle Mile,1,3,1
+6037211420,1,Miracle Mile,0,3,1
+6037215101,0,Miracle Mile,0,2,1
+6037215101,0,Miracle Mile,1,2,1
+6037214700,0,Fairfax,2,3,2
+6037214700,0,Fairfax,1,3,2
+6037214700,0,Fairfax,2,3,2
+6037214503,0,Miracle Mile,2,3,0
+6037214503,0,Miracle Mile,3,3,0
+6037214503,0,Miracle Mile,3,3,0
+6037214503,0,Miracle Mile,3,3,0
+6037700802,1,Beverly Hills,2,2,2
+6037700802,1,Beverly Hills,1,2,2
+6037214800,0,Fairfax,2,2,2
+6037214800,0,Fairfax,1,2,2
+6037214800,0,Fairfax,0,2,2
+6037214501,0,Miracle Mile,3,3,0
+6037214501,0,Miracle Mile,1,3,0
+6037214501,0,Miracle Mile,3,3,0
+6037214600,0,Fairfax,1,2,1
+6037214600,0,Fairfax,1,2,1
+6037214600,0,Fairfax,1,2,1
+6037214902,0,Fairfax,0,2,1
+6037214902,0,Fairfax,1,2,1
+6037211201,0,Miracle Mile,1,2,1
+6037211201,0,Miracle Mile,0,2,1
+6037214000,0,Fairfax,2,3,0
+6037214000,0,Fairfax,0,3,0
+6037214000,0,Fairfax,1,3,0
+6037214000,0,Fairfax,1,3,0
+6037214100,0,Hancock Park,3,3,1
+6037214100,0,Hancock Park,2,3,1
+6037214100,0,Hancock Park,2,3,1
+6037214100,0,Hancock Park,2,3,1
+6037192300,0,Hancock Park,3,3,0
+6037192300,0,Hancock Park,2,3,0
+6037192300,0,Hancock Park,2,3,0
+6037192410,0,Hancock Park,0,1,1
+6037192410,0,Hancock Park,2,1,1
+6037192410,0,Hancock Park,2,1,1
+6037192410,0,Hancock Park,2,1,1
+6037192420,0,Hancock Park,1,3,1
+6037192420,0,Hancock Park,0,3,1
+6037192510,1,East Hollywood,0,3,1
+6037192510,1,East Hollywood,0,3,1
+6037192520,1,East Hollywood,0,3,1
+6037192520,1,East Hollywood,0,3,1
+6037191902,0,Hancock Park,2,3,0
+6037191902,0,Hancock Park,2,3,0
+6037192001,0,Fairfax,1,3,1
+6037192001,0,Fairfax,2,3,1
+6037214400,0,Fairfax,0,2,1
+6037214400,0,Fairfax,0,2,1
+6037214400,0,Fairfax,0,2,1
+6037194500,0,Fairfax,2,3,2
+6037194500,0,Fairfax,2,3,2
+6037700700,0,Beverly Hills,4,0,2
+6037700700,0,Beverly Hills,3,0,2
+6037700700,0,Beverly Hills,4,0,2
+6037700400,1,West Hollywood,2,2,0
+6037700400,1,West Hollywood,3,2,0
+6037700400,1,West Hollywood,2,2,0
+6037700400,1,West Hollywood,2,2,0
+6037192002,0,Fairfax,2,2,1
+6037192002,0,Fairfax,2,2,1
+6037192002,0,Fairfax,2,2,1
+6037194401,0,Fairfax,2,2,2
+6037194401,0,Fairfax,2,2,2
+6037194402,0,Fairfax,2,2,1
+6037194402,0,Fairfax,2,2,1
+6037194402,0,Fairfax,1,2,1
+6037700501,0,West Hollywood,1,1,0
+6037700501,0,West Hollywood,1,1,0
+6037700102,1,West Hollywood,1,2,1
+6037700102,1,West Hollywood,2,2,1
+6037700102,1,West Hollywood,1,2,1
+6037208720,1,Westlake,1,3,0
+6037208720,1,Westlake,1,3,0
+6037208302,1,Westlake,1,2,0
+6037208302,1,Westlake,0,2,0
+6037208302,1,Westlake,1,2,0
+6037212101,0,Miracle Mile,0,3,1
+6037212101,0,Miracle Mile,0,3,1
+6037208401,1,Westlake,0,2,1
+6037208401,1,Westlake,0,2,1
+6037208710,1,Westlake,1,2,0
+6037208502,1,Westlake,1,3,1
+6037208502,1,Westlake,1,3,1
+6037208502,1,Westlake,1,3,1
+6037211922,0,Miracle Mile,0,3,1
+6037211922,0,Miracle Mile,0,3,1
+6037211921,0,Miracle Mile,0,3,1
+6037208402,0,Westlake,1,2,1
+6037208402,0,Westlake,1,2,1
+6037208501,0,Westlake,1,2,1
+6037208501,0,Westlake,1,2,1
+6037208620,1,Westlake,1,2,1
+6037208620,1,Westlake,1,2,1
+6037208620,1,Westlake,0,2,1
+6037211320,1,Miracle Mile,0,2,1
+6037211320,1,Miracle Mile,0,2,1
+6037208610,1,Westlake,0,2,1
+6037208610,1,Westlake,1,2,1
+6037211121,0,Miracle Mile,1,3,1
+6037211121,0,Miracle Mile,1,3,1
+6037211122,0,Miracle Mile,1,3,1
+6037211122,0,Miracle Mile,0,3,1
+6037197500,0,Silverlake,1,2,0
+6037197500,0,Silverlake,2,2,0
+6037197500,0,Silverlake,3,2,0
+6037195720,0,Silverlake,1,2,0
+6037195720,0,Silverlake,1,2,0
+6037211202,0,Miracle Mile,1,2,2
+6037201700,3,El Sereno,1,2,2
+6037201700,3,El Sereno,1,2,2
+6037201700,3,El Sereno,1,2,2
+6037201402,3,El Sereno,1,2,2
+6037201402,3,El Sereno,1,2,2
+6037201402,3,El Sereno,0,2,2
+6037481901,3,Alhambra,1,2,2
+6037481901,3,Alhambra,1,2,2
+6037201601,2,El Sereno,1,2,2
+6037201602,2,El Sereno,1,1,2
+6037201602,2,El Sereno,0,1,2
+6037201602,2,El Sereno,2,1,2
+6037206010,1,Silverlake,1,3,2
+6037206010,1,Silverlake,0,3,2
+6037199120,3,Lincoln Heights,1,3,2
+6037199120,3,Lincoln Heights,1,3,2
+6037199201,1,Lincoln Heights,1,2,0
+6037199201,1,Lincoln Heights,0,2,0
+6037199110,2,Lincoln Heights,1,1,2
+6037199110,2,Lincoln Heights,3,1,2
+6037199202,2,Lincoln Heights,2,2,1
+6037199202,2,Lincoln Heights,2,2,1
+6037197300,0,Silverlake,3,2,1
+6037197300,0,Silverlake,3,2,1
+6037197300,0,Silverlake,2,2,1
+6037201401,3,El Sereno,1,4,2
+6037201401,3,El Sereno,1,4,2
+6037201504,2,El Sereno,2,2,1
+6037480802,2,Alhambra,0,3,2
+6037201503,2,El Sereno,1,1,0
+6037201503,2,El Sereno,1,1,0
+6037201501,4,El Sereno,2,3,0
+6037201501,4,El Sereno,1,3,0
+6037201501,4,El Sereno,1,3,0
+6037201301,3,El Sereno,2,1,2
+6037201301,3,El Sereno,1,1,2
+6037980010,0,Silverlake,3,4,2
+6037199400,3,Lincoln Heights,0,2,2
+6037199400,3,Lincoln Heights,2,2,2
+6037199400,3,Lincoln Heights,1,2,2
+6037185320,2,Lincoln Heights,0,2,2
+6037185320,2,Lincoln Heights,1,2,2
+6037197200,2,Silverlake,1,1,2
+6037197200,2,Silverlake,1,1,2
+6037197200,2,Silverlake,1,1,2
+6037199300,2,Lincoln Heights,3,2,2
+6037199300,2,Lincoln Heights,2,2,2
+6037185310,2,Lincoln Heights,1,2,2
+6037185310,2,Lincoln Heights,1,2,2
+6037197410,0,Silverlake,4,2,1
+6037197410,0,Silverlake,3,2,1
+6037197410,0,Silverlake,3,2,1
+6037185202,2,Eagle Rock/Glassell,3,2,2
+6037185202,2,Eagle Rock/Glassell,2,2,2
+6037185202,2,Eagle Rock/Glassell,4,2,2
+6037185203,2,Eagle Rock/Glassell,1,2,2
+6037185203,2,Eagle Rock/Glassell,1,2,2
+6037185203,2,Eagle Rock/Glassell,2,2,2
+6037187102,3,Los Feliz,0,3,2
+6037187102,3,Los Feliz,2,3,2
+6037201200,1,El Sereno,1,1,1
+6037480803,2,Alhambra,2,3,0
+6037201120,3,El Sereno,2,1,1
+6037201120,3,El Sereno,1,1,1
+6037201120,3,El Sereno,2,1,1
+6037480804,3,Alhambra,1,2,0
+6037201110,2,El Sereno,1,2,1
+6037201110,2,El Sereno,2,2,1
+6037201110,2,El Sereno,1,2,1
+6037201302,2,El Sereno,3,1,2
+6037201302,2,El Sereno,3,1,2
+6037201302,2,El Sereno,3,1,2
+6037201302,2,El Sereno,3,1,2
+6037183702,2,Highland Park,3,2,1
+6037183702,2,Highland Park,3,2,1
+6037195710,1,Silverlake,1,4,0
+6037195710,1,Silverlake,1,4,0
+6037195710,1,Silverlake,1,4,0
+6037195802,0,Silverlake,1,2,2
+6037195802,0,Silverlake,1,2,2
+6037192620,1,East Hollywood,0,3,2
+6037192620,1,East Hollywood,0,3,2
+6037195804,0,Silverlake,1,0,1
+6037195804,0,Silverlake,2,0,1
+6037192700,1,East Hollywood,1,2,1
+6037192700,1,East Hollywood,1,2,1
+6037195903,0,Silverlake,1,2,1
+6037195903,0,Silverlake,2,2,1
+6037195600,0,Silverlake,2,2,0
+6037195600,0,Silverlake,2,2,0
+6037195600,0,Silverlake,1,2,0
+6037195600,0,Silverlake,2,2,0
+6037192610,1,East Hollywood,1,4,1
+6037192610,1,East Hollywood,0,4,1
+6037192610,1,East Hollywood,1,4,1
+6037195803,0,Silverlake,3,2,2
+6037195803,0,Silverlake,2,2,2
+6037197420,0,Silverlake,2,2,1
+6037197420,0,Silverlake,2,2,1
+6037191820,0,Hollywood,0,3,0
+6037191820,0,Hollywood,0,3,0
+6037191820,0,Hollywood,0,3,0
+6037191710,0,Hollywood,0,3,2
+6037191710,0,Hollywood,1,3,2
+6037191610,1,East Hollywood,2,4,2
+6037191610,1,East Hollywood,1,4,2
+6037191620,0,East Hollywood,0,3,1
+6037191720,1,Hollywood,1,2,2
+6037191720,1,Hollywood,1,2,2
+6037191810,0,Hollywood,0,3,1
+6037191810,0,Hollywood,0,3,1
+6037191810,0,Hollywood,0,3,1
+6037191901,0,Hollywood,0,2,1
+6037191901,0,Hollywood,0,2,1
+6037191120,1,East Hollywood,0,3,2
+6037191120,1,East Hollywood,0,3,2
+6037191204,0,East Hollywood,1,1,1
+6037190802,0,Hollywood,0,2,1
+6037190802,0,Hollywood,1,2,1
+6037190802,0,Hollywood,0,2,1
+6037191420,0,East Hollywood,0,3,0
+6037191420,0,East Hollywood,1,3,0
+6037195902,0,Silverlake,3,1,1
+6037195902,0,Silverlake,3,1,1
+6037191500,1,East Hollywood,1,2,1
+6037191500,1,East Hollywood,0,2,1
+6037191500,1,East Hollywood,0,2,1
+6037195901,0,Silverlake,3,2,0
+6037191410,1,East Hollywood,0,2,0
+6037191410,1,East Hollywood,0,2,0
+6037195500,1,Silverlake,3,1,1
+6037195500,1,Silverlake,2,1,1
+6037195500,1,Silverlake,3,1,1
+6037195500,1,Silverlake,3,1,1
+6037195400,0,Silverlake,3,2,2
+6037195400,0,Silverlake,3,2,2
+6037195400,0,Silverlake,3,2,2
+6037195400,0,Silverlake,2,2,2
+6037191301,0,East Hollywood,1,2,0
+6037191301,0,East Hollywood,0,2,0
+6037191203,0,East Hollywood,0,3,0
+6037191203,0,East Hollywood,0,3,0
+6037191302,0,East Hollywood,1,2,0
+6037191302,0,East Hollywood,0,2,0
+6037700502,0,West Hollywood,2,3,1
+6037700300,1,West Hollywood,1,1,2
+6037700300,1,West Hollywood,2,1,2
+6037700300,1,West Hollywood,1,1,2
+6037700600,0,Beverly Hills,4,2,2
+6037700600,0,Beverly Hills,4,2,2
+6037700200,1,West Hollywood,2,2,2
+6037700200,1,West Hollywood,2,2,2
+6037700200,1,West Hollywood,2,2,2
+6037700200,1,West Hollywood,2,2,2
+6037194300,0,Hollywood,4,3,2
+6037194300,0,Hollywood,4,3,2
+6037194300,0,Hollywood,4,3,2
+6037194200,0,Hollywood,4,4,2
+6037194200,0,Hollywood,4,4,2
+6037190801,0,Hollywood,1,2,1
+6037190801,0,Hollywood,1,2,1
+6037190902,1,Hollywood,0,2,1
+6037190902,1,Hollywood,1,2,1
+6037190902,1,Hollywood,1,2,1
+6037190901,1,Hollywood,0,2,2
+6037190901,1,Hollywood,1,2,2
+6037190901,1,Hollywood,0,2,2
+6037191110,1,East Hollywood,1,3,2
+6037191110,1,East Hollywood,0,3,2
+6037189904,0,Hollywood,0,3,0
+6037190510,1,East Hollywood,1,3,2
+6037190510,1,East Hollywood,1,3,2
+6037190520,1,East Hollywood,1,2,2
+6037190520,1,East Hollywood,0,2,2
+6037189905,0,Hollywood,3,3,0
+6037189905,0,Hollywood,1,3,0
+6037191000,1,Hollywood,0,3,0
+6037191000,1,Hollywood,0,3,0
+6037191000,1,Hollywood,0,3,0
+6037189903,0,Hollywood,1,3,0
+6037190202,0,Hollywood,1,3,1
+6037190202,0,Hollywood,1,3,1
+6037190201,0,Hollywood,0,3,0
+6037190201,0,Hollywood,1,3,0
+6037190402,0,Los Feliz,0,2,2
+6037191201,1,East Hollywood,1,3,1
+6037191201,1,East Hollywood,1,3,1
+6037195300,0,Los Feliz,2,2,1
+6037195300,0,Los Feliz,2,2,1
+6037195300,0,Los Feliz,1,2,1
+6037195100,0,Silverlake,3,3,1
+6037195100,0,Silverlake,2,3,1
+6037195100,0,Silverlake,3,3,1
+6037195100,0,Silverlake,3,3,1
+6037187300,0,Silverlake,3,2,0
+6037187300,0,Silverlake,2,2,0
+6037195202,0,Los Feliz,3,2,1
+6037195202,0,Los Feliz,3,2,1
+6037195202,0,Los Feliz,2,2,1
+6037189201,0,Los Feliz,1,2,1
+6037189201,0,Los Feliz,1,2,1
+6037189101,0,Los Feliz,2,2,0
+6037189101,0,Los Feliz,1,2,0
+6037189101,0,Los Feliz,2,2,0
+6037195201,0,Los Feliz,3,1,1
+6037195201,0,Los Feliz,2,1,1
+6037189202,0,Los Feliz,4,1,1
+6037189202,0,Los Feliz,3,1,1
+6037189202,0,Los Feliz,2,1,1
+6037188201,0,Los Feliz,3,2,2
+6037188201,0,Los Feliz,2,2,2
+6037188201,0,Los Feliz,3,2,2
+6037194101,0,Hollywood,4,3,2
+6037194102,0,Hollywood,4,3,2
+6037194102,0,Hollywood,4,3,2
+6037194102,0,Hollywood,4,3,2
+6037143700,1,Studio City,4,2,2
+6037143700,1,Studio City,4,2,2
+6037143901,2,Studio City,3,2,2
+6037143901,2,Studio City,4,2,2
+6037143902,1,Sherman Oaks,4,1,2
+6037143902,1,Sherman Oaks,3,1,2
+6037190401,0,Los Feliz,1,2,2
+6037190401,0,Los Feliz,0,2,2
+6037189300,0,Los Feliz,3,1,2
+6037189300,0,Los Feliz,4,1,2
+6037189300,0,Los Feliz,4,1,2
+6037189600,0,Hollywood,4,2,1
+6037189600,0,Hollywood,3,2,1
+6037189600,0,Hollywood,3,2,1
+6037189702,0,Hollywood,4,2,2
+6037189400,0,Hollywood,4,2,2
+6037189400,0,Hollywood,4,2,2
+6037189400,0,Hollywood,4,2,2
+6037143603,1,Studio City,3,3,2
+6037143602,3,Studio City,3,2,2
+6037143602,3,Studio City,3,2,2
+6037143602,3,Studio City,2,2,2
+6037143500,3,Studio City,3,2,0
+6037143500,3,Studio City,3,2,0
+6037143500,3,Studio City,2,2,0
+6037143500,3,Studio City,3,2,0
+6037143200,3,Studio City,3,4,2
+6037143200,3,Studio City,2,4,2
+6037143200,3,Studio City,2,4,2
+6037187200,1,Los Feliz,1,3,1
+6037187200,1,Los Feliz,1,3,1
+6037185204,1,Eagle Rock/Glassell,3,1,2
+6037185204,1,Eagle Rock/Glassell,3,1,2
+6037183820,3,Highland Park,2,1,1
+6037183820,3,Highland Park,1,1,1
+6037186404,2,Eagle Rock/Glassell,2,3,2
+6037186404,2,Eagle Rock/Glassell,2,3,2
+6037183810,3,Highland Park,1,2,1
+6037183810,3,Highland Park,1,2,1
+6037183520,3,Highland Park,2,2,1
+6037183520,3,Highland Park,2,2,1
+6037186403,2,Eagle Rock/Glassell,1,1,2
+6037186403,2,Eagle Rock/Glassell,1,1,2
+6037186302,3,Eagle Rock/Glassell,3,2,2
+6037186302,3,Eagle Rock/Glassell,3,2,2
+6037186302,3,Eagle Rock/Glassell,2,2,2
+6037480702,2,South Pasadena,4,2,2
+6037480702,2,South Pasadena,3,2,2
+6037480703,2,South Pasadena,4,1,2
+6037480704,2,South Pasadena,3,1,1
+6037183701,3,Highland Park,2,3,0
+6037183701,3,Highland Park,2,3,0
+6037183701,3,Highland Park,3,3,0
+6037183620,2,Highland Park,2,2,0
+6037183620,2,Highland Park,1,2,0
+6037183103,3,Highland Park,2,1,1
+6037183103,3,Highland Park,2,1,1
+6037183220,3,Highland Park,1,1,1
+6037183220,3,Highland Park,1,1,1
+6037183220,3,Highland Park,2,1,1
+6037183610,2,Highland Park,1,3,0
+6037183610,2,Highland Park,1,3,0
+6037186203,1,Eagle Rock/Glassell,3,1,2
+6037186203,1,Eagle Rock/Glassell,3,1,2
+6037183510,1,Highland Park,1,3,2
+6037183510,1,Highland Park,2,3,2
+6037183510,1,Highland Park,2,3,2
+6037186401,3,Eagle Rock/Glassell,0,2,1
+6037186401,3,Eagle Rock/Glassell,1,2,1
+6037186202,1,Eagle Rock/Glassell,2,2,2
+6037186202,1,Eagle Rock/Glassell,1,2,2
+6037183300,2,Highland Park,1,2,2
+6037183300,2,Highland Park,2,2,2
+6037183300,2,Highland Park,1,2,2
+6037186201,2,Eagle Rock/Glassell,2,2,2
+6037183401,2,Highland Park,2,3,2
+6037183401,2,Highland Park,1,3,2
+6037186301,2,Eagle Rock/Glassell,2,3,2
+6037186301,2,Eagle Rock/Glassell,1,3,2
+6037186301,2,Eagle Rock/Glassell,2,3,2
+6037183402,2,Eagle Rock/Glassell,1,2,1
+6037183402,2,Eagle Rock/Glassell,1,2,1
+6037183104,1,Highland Park,3,1,2
+6037183101,2,Highland Park,3,2,2
+6037183101,2,Highland Park,3,2,2
+6037183101,2,Highland Park,1,2,2
+6037183221,2,Highland Park,3,4,2
+6037183221,2,Highland Park,3,4,2
+6037463900,2,Pasadena,4,2,2
+6037463800,2,Pasadena,4,1,2
+6037463800,2,Pasadena,4,1,2
+6037463800,2,Pasadena,4,1,2
+6037189102,0,Los Feliz,2,2,1
+6037189102,0,Los Feliz,4,2,1
+6037189102,0,Los Feliz,2,2,1
+6037187101,2,Atwater Village,2,3,0
+6037187101,2,Atwater Village,2,3,0
+6037188202,0,Los Feliz,3,3,2
+6037188202,0,Los Feliz,4,3,2
+6037188202,0,Los Feliz,3,3,2
+6037188300,2,Atwater Village,3,1,0
+6037188300,2,Atwater Village,2,1,0
+6037188300,2,Atwater Village,2,1,0
+6037302505,3,Glendale,1,3,1
+6037302401,4,Glendale,0,2,1
+6037302401,4,Glendale,0,2,1
+6037188100,3,Atwater Village,1,2,2
+6037188100,3,Atwater Village,1,2,2
+6037188100,3,Atwater Village,2,2,2
+6037183222,2,Highland Park,3,1,2
+6037183222,2,Highland Park,4,1,2
+6037183222,2,Highland Park,3,1,2
+6037186100,2,Eagle Rock/Glassell,2,2,2
+6037186100,2,Eagle Rock/Glassell,2,2,2
+6037186100,2,Eagle Rock/Glassell,3,2,2
+6037186100,2,Eagle Rock/Glassell,3,2,2
+6037302506,3,Glendale,3,4,2
+6037181600,3,Eagle Rock/Glassell,3,2,1
+6037181600,3,Eagle Rock/Glassell,3,2,1
+6037302102,3,Glendale,3,1,2
+6037302102,3,Glendale,2,1,2
+6037302102,3,Glendale,2,1,2
+6037302102,3,Glendale,2,1,2
+6037181500,2,Eagle Rock/Glassell,3,4,2
+6037181500,2,Eagle Rock/Glassell,3,4,2
+6037181500,2,Eagle Rock/Glassell,3,4,2
+6037181400,3,Eagle Rock/Glassell,1,1,0
+6037181400,3,Eagle Rock/Glassell,3,1,0
+6037181400,3,Eagle Rock/Glassell,3,1,0
+6037181300,2,Eagle Rock/Glassell,2,2,1
+6037181300,2,Eagle Rock/Glassell,3,2,1
+6037181300,2,Eagle Rock/Glassell,2,2,1
+6037181000,3,Eagle Rock/Glassell,2,1,1
+6037181000,3,Eagle Rock/Glassell,3,1,1
+6037181000,3,Eagle Rock/Glassell,2,1,1
+6037181000,3,Eagle Rock/Glassell,3,1,1
+6037181000,3,Eagle Rock/Glassell,3,1,1
+6037302104,3,Glendale,1,3,2
+6037302104,3,Glendale,1,3,2
+6037302104,3,Glendale,2,3,2
+6037460800,1,Pasadena,4,0,2
+6037125502,2,Toluca Lake,1,2,2
+6037125502,2,Toluca Lake,2,2,2
+6037125402,2,North Hollywood,1,3,1
+6037125402,2,North Hollywood,2,3,1
+6037125402,2,North Hollywood,2,3,1
+6037125600,2,Toluca Lake,3,2,2
+6037125600,2,Toluca Lake,3,2,2
+6037125600,2,Toluca Lake,3,2,2
+6037125501,2,North Hollywood,2,2,1
+6037125501,2,North Hollywood,2,2,1
+6037124700,3,Sherman Oaks,3,2,2
+6037124700,3,Sherman Oaks,1,2,2
+6037124700,3,Sherman Oaks,2,2,2
+6037124700,3,Sherman Oaks,3,2,2
+6037301602,3,Glendale,2,3,2
+6037301602,3,Glendale,1,3,2
+6037301602,3,Glendale,2,3,2
+6037311400,1,Burbank,3,1,2
+6037311700,3,Burbank,2,2,1
+6037311700,3,Burbank,2,2,1
+6037311801,2,Burbank,2,2,2
+6037301702,4,Glendale,0,3,2
+6037301601,4,Glendale,0,3,2
+6037124000,3,Valley Village,2,2,2
+6037124000,3,Valley Village,3,2,2
+6037124000,3,Valley Village,3,2,2
+6037124000,3,Valley Village,3,2,2
+6037125200,3,North Hollywood,3,3,0
+6037125200,3,North Hollywood,2,3,0
+6037125200,3,North Hollywood,3,3,0
+6037124903,3,Valley Village,1,3,2
+6037124903,3,Valley Village,1,3,2
+6037125310,3,North Hollywood,2,2,1
+6037125310,3,North Hollywood,0,2,1
+6037125310,3,North Hollywood,1,2,1
+6037124902,2,Valley Glen,1,2,2
+6037311200,1,Burbank,2,3,2
+6037311200,1,Burbank,2,3,2
+6037124400,3,Valley Glen,2,2,2
+6037124400,3,Valley Glen,2,2,2
+6037124400,3,Valley Glen,2,2,2
+6037124204,2,North Hollywood,1,3,1
+6037124204,2,North Hollywood,1,3,1
+6037124102,3,North Hollywood,3,3,1
+6037124102,3,North Hollywood,1,3,1
+6037124102,3,North Hollywood,1,3,1
+6037124300,3,North Hollywood,2,3,2
+6037124300,3,North Hollywood,2,3,2
+6037124300,3,North Hollywood,1,3,2
+6037123902,1,Valley Glen,2,2,2
+6037123902,1,Valley Glen,2,2,2
+6037123601,4,Valley Glen,2,2,2
+6037123601,4,Valley Glen,2,2,2
+6037123601,4,Valley Glen,1,2,2
+6037124203,2,North Hollywood,2,3,2
+6037124203,2,North Hollywood,2,3,2
+6037123800,4,Valley Glen,2,2,2
+6037123800,4,Valley Glen,3,2,2
+6037123800,4,Valley Glen,2,2,2
+6037124105,2,North Hollywood,2,3,2
+6037124105,2,North Hollywood,0,3,2
+6037123104,3,North Hollywood,2,3,2
+6037123104,3,North Hollywood,2,3,2
+6037123104,3,North Hollywood,1,3,2
+6037123901,3,North Hollywood,2,3,1
+6037123901,3,North Hollywood,3,3,1
+6037123901,3,North Hollywood,1,3,1
+6037128303,3,Van Nuys,1,3,0
+6037128303,3,Van Nuys,1,3,0
+6037128210,4,Van Nuys,1,3,0
+6037128210,4,Van Nuys,1,3,0
+6037127711,2,Van Nuys,3,2,2
+6037127711,2,Van Nuys,2,2,2
+6037127806,3,Van Nuys,2,2,1
+6037127806,3,Van Nuys,2,2,1
+6037127806,3,Van Nuys,2,2,1
+6037132101,3,Lake Balboa,1,3,2
+6037132101,3,Lake Balboa,2,3,2
+6037132101,3,Lake Balboa,2,3,2
+6037127605,3,Van Nuys,1,3,2
+6037127605,3,Van Nuys,2,3,2
+6037127606,2,Van Nuys,2,3,2
+6037127606,2,Van Nuys,2,3,2
+6037128102,4,Van Nuys,2,2,1
+6037128102,4,Van Nuys,2,2,1
+6037128101,3,Valley Glen,2,3,1
+6037128101,3,Valley Glen,3,3,1
+6037123520,2,Valley Glen,2,4,2
+6037123700,3,Valley Glen,2,2,1
+6037123700,3,Valley Glen,2,2,1
+6037123700,3,Valley Glen,2,2,1
+6037123700,3,Valley Glen,2,2,1
+6037124104,2,North Hollywood,2,4,2
+6037124104,2,North Hollywood,0,4,2
+6037124201,2,North Hollywood,1,2,2
+6037124201,2,North Hollywood,1,2,2
+6037124201,2,North Hollywood,2,2,2
+6037311100,3,Burbank,2,1,1
+6037311100,3,Burbank,2,1,1
+6037311100,3,Burbank,1,1,1
+6037124103,1,North Hollywood,2,3,2
+6037124103,1,North Hollywood,1,3,2
+6037123103,3,North Hollywood,1,2,2
+6037123103,3,North Hollywood,1,2,2
+6037123420,4,Valley Glen,2,3,2
+6037123420,4,Valley Glen,1,3,2
+6037123420,4,Valley Glen,1,3,2
+6037123204,2,North Hollywood,2,3,0
+6037123204,2,North Hollywood,1,3,0
+6037123206,2,North Hollywood,0,2,2
+6037123205,2,North Hollywood,0,3,2
+6037123205,2,North Hollywood,1,3,2
+6037123203,3,North Hollywood,2,4,1
+6037123203,3,North Hollywood,0,4,1
+6037123203,3,North Hollywood,0,4,1
+6037123304,4,Valley Glen,1,4,0
+6037123304,4,Valley Glen,2,4,0
+6037123304,4,Valley Glen,1,4,0
+6037123303,3,Valley Glen,1,2,1
+6037123303,3,Valley Glen,2,2,1
+6037123301,3,North Hollywood,1,4,1
+6037123301,3,North Hollywood,0,4,1
+6037123301,3,North Hollywood,2,4,1
+6037123010,3,Sun Valley,1,4,2
+6037123010,3,Sun Valley,0,4,2
+6037122420,4,Sun Valley,0,3,2
+6037122420,4,Sun Valley,1,3,2
+6037122410,3,Sun Valley,0,2,2
+6037122410,3,Sun Valley,1,2,2
+6037123020,2,Sun Valley,2,3,1
+6037123020,2,Sun Valley,1,3,1
+6037121020,3,Sun Valley,2,4,2
+6037121020,3,Sun Valley,1,4,2
+6037121020,3,Sun Valley,2,4,2
+6037122120,4,Sun Valley,1,2,0
+6037122120,4,Sun Valley,1,2,0
+6037121600,2,Sun Valley,0,3,2
+6037121600,2,Sun Valley,1,3,2
+6037121801,3,Sun Valley,1,4,2
+6037121801,3,Sun Valley,1,4,2
+6037122121,2,Sun Valley,2,3,0
+6037122121,2,Sun Valley,2,3,0
+6037122200,3,Sun Valley,0,4,1
+6037122200,3,Sun Valley,2,4,1
+6037122200,3,Sun Valley,1,4,1
+6037122000,4,Sun Valley,0,3,2
+6037122000,4,Sun Valley,0,3,2
+6037122000,4,Sun Valley,2,3,2
+6037121900,3,Sun Valley,0,2,1
+6037121900,3,Sun Valley,1,2,1
+6037121900,3,Sun Valley,1,2,1
+6037121802,3,Sun Valley,0,2,2
+6037121802,3,Sun Valley,1,2,2
+6037121802,3,Sun Valley,1,2,2
+6037122122,2,Sun Valley,0,4,0
+6037122122,2,Sun Valley,3,4,0
+6037122122,2,Sun Valley,0,4,0
+6037102103,1,Shadow Hills,2,4,2
+6037310400,2,Burbank,1,2,2
+6037310100,3,Burbank,3,4,2
+6037310100,3,Burbank,2,4,2
+6037102105,1,Sun Valley,1,2,2
+6037102105,1,Sun Valley,1,2,2
+6037102104,3,Shadow Hills,2,1,2
+6037102104,3,Shadow Hills,3,1,2
+6037102107,3,Shadow Hills,3,2,2
+6037102107,3,Shadow Hills,3,2,2
+6037103102,3,Sunland,1,4,1
+6037103102,3,Sunland,2,4,1
+6037103102,3,Sunland,2,4,1
+6037103102,3,Sunland,1,4,1
+6037103102,3,Sunland,2,4,1
+6037117407,3,North Hills,0,3,2
+6037120108,4,Panorama City,2,3,2
+6037120108,4,Panorama City,1,3,2
+6037119340,3,Panorama City,0,3,2
+6037117510,3,North Hills,1,4,2
+6037117405,3,North Hills,0,3,2
+6037117302,3,Northridge,1,3,1
+6037117302,3,Northridge,1,3,1
+6037117302,3,Northridge,2,3,1
+6037117302,3,Northridge,1,3,1
+6037119341,3,Panorama City,1,3,2
+6037119320,4,Panorama City,2,2,2
+6037121010,3,Sun Valley,2,3,2
+6037121010,3,Sun Valley,1,3,2
+6037121010,3,Sun Valley,1,3,2
+6037121010,3,Sun Valley,0,3,2
+6037121101,2,Sun Valley,1,2,1
+6037121101,2,Sun Valley,1,2,1
+6037121221,1,Sun Valley,2,1,2
+6037121221,1,Sun Valley,2,1,2
+6037119001,3,Arleta,1,2,2
+6037119001,3,Arleta,2,2,2
+6037119001,3,Arleta,2,2,2
+6037121222,4,Sun Valley,1,3,2
+6037121222,4,Sun Valley,0,3,2
+6037121222,4,Sun Valley,1,3,2
+6037121210,3,Sun Valley,1,3,2
+6037121210,3,Sun Valley,0,3,2
+6037121102,2,Sun Valley,0,3,2
+6037121102,2,Sun Valley,0,3,2
+6037121102,2,Sun Valley,0,3,2
+6037104821,3,Pacoima,2,2,2
+6037104821,3,Pacoima,2,2,2
+6037117101,3,North Hills,2,4,2
+6037117101,3,North Hills,1,4,2
+6037119400,3,Arleta,2,3,2
+6037119400,3,Arleta,2,3,2
+6037119400,3,Arleta,2,3,2
+6037119400,3,Arleta,2,3,2
+6037119342,2,Panorama City,1,4,2
+6037117201,4,North Hills,2,4,2
+6037117201,4,North Hills,2,4,2
+6037117202,2,North Hills,1,3,1
+6037117202,2,North Hills,2,3,1
+6037117301,2,North Hills,2,2,1
+6037117301,2,North Hills,1,2,1
+6037117301,2,North Hills,2,2,1
+6037104822,2,Pacoima,1,3,2
+6037117102,2,North Hills,2,4,2
+6037117102,2,North Hills,3,4,2
+6037119201,3,Arleta,2,1,2
+6037119201,3,Arleta,2,1,2
+6037119201,3,Arleta,2,1,2
+6037119310,3,Panorama City,2,3,2
+6037119310,3,Panorama City,1,3,2
+6037109603,3,Mission Hills,2,3,2
+6037109603,3,Mission Hills,2,3,2
+6037109603,3,Mission Hills,1,3,2
+6037109800,3,North Hills,1,4,2
+6037109800,3,North Hills,2,4,2
+6037109800,3,North Hills,2,4,2
+6037109800,3,North Hills,2,4,2
+6037104500,2,Pacoima,2,4,1
+6037104500,2,Pacoima,2,4,1
+6037119202,3,Arleta,1,2,2
+6037119202,3,Arleta,2,2,2
+6037119202,3,Arleta,1,2,2
+6037119202,3,Arleta,1,2,2
+6037104620,2,Pacoima,2,3,1
+6037104620,2,Pacoima,2,3,1
+6037109601,3,Mission Hills,1,3,2
+6037109601,3,Mission Hills,1,3,2
+6037109601,3,Mission Hills,1,3,2
+6037109601,3,Mission Hills,2,3,2
+6037104403,2,Pacoima,1,4,0
+6037104403,2,Pacoima,1,4,0
+6037104703,2,Pacoima,0,2,2
+6037104703,2,Pacoima,1,2,2
+6037103300,2,Shadow Hills,2,4,2
+6037103300,2,Shadow Hills,3,4,2
+6037104704,4,Pacoima,0,3,2
+6037104701,4,Pacoima,0,2,2
+6037104701,4,Pacoima,1,2,2
+6037104701,4,Pacoima,2,2,2
+6037104108,4,Pacoima,1,2,2
+6037104108,4,Pacoima,1,2,2
+6037104108,4,Pacoima,2,2,2
+6037104105,4,Pacoima,1,4,2
+6037104105,4,Pacoima,1,4,2
+6037104203,4,Pacoima,1,4,2
+6037104203,4,Pacoima,2,4,2
+6037104103,3,Lake View Terrace,2,4,2
+6037104103,3,Lake View Terrace,2,4,2
+6037104610,3,Pacoima,1,4,1
+6037104610,3,Pacoima,1,4,1
+6037109604,2,Mission Hills,0,3,2
+6037109604,2,Mission Hills,2,3,2
+6037109604,2,Mission Hills,1,3,2
+6037109700,3,Granada Hills,1,3,2
+6037109700,3,Granada Hills,2,3,2
+6037109700,3,Granada Hills,1,3,2
+6037104404,3,Pacoima,2,3,0
+6037104404,3,Pacoima,1,3,0
+6037104401,2,Pacoima,2,3,1
+6037104401,2,Pacoima,1,3,1
+6037111100,2,Granada Hills,2,2,0
+6037111100,2,Granada Hills,1,2,0
+6037109400,2,Mission Hills,2,4,2
+6037109400,2,Mission Hills,2,4,2
+6037109400,2,Mission Hills,2,4,2
+6037109300,2,Granada Hills,1,3,2
+6037109300,2,Granada Hills,1,3,2
+6037109300,2,Granada Hills,1,3,2
+6037106604,4,Sylmar,2,3,2
+6037106604,4,Sylmar,1,3,2
+6037106604,4,Sylmar,3,3,2
+6037106604,4,Sylmar,0,3,2
+6037106403,2,Sylmar,2,3,1
+6037106403,2,Sylmar,3,3,1
+6037106403,2,Sylmar,2,3,1
+6037106113,3,Sylmar,1,4,2
+6037106113,3,Sylmar,1,4,2
+6037106520,4,Sylmar,2,3,1
+6037106520,4,Sylmar,1,3,1
+6037106520,4,Sylmar,2,3,1
+6037106407,3,Sylmar,0,4,1
+6037106407,3,Sylmar,1,4,1
+6037106408,3,Sylmar,1,3,1
+6037106408,3,Sylmar,2,3,1
+6037106405,3,Sylmar,2,1,1
+6037106405,3,Sylmar,1,1,1
+6037106405,3,Sylmar,2,1,1
+6037106020,3,Sylmar,2,3,1
+6037106020,3,Sylmar,2,3,1
+6037106406,4,Sylmar,1,2,2
+6037106406,4,Sylmar,2,2,2
+6037106406,4,Sylmar,1,2,2
+6037106010,2,Sylmar,1,4,2
+6037104201,3,Pacoima,1,4,2
+6037104201,3,Pacoima,1,4,2
+6037104201,3,Pacoima,1,4,2
+6037104124,3,Kagel Canyon,1,3,1
+6037104124,3,Lake View Terrace,2,3,1
+6037104124,3,Lake View Terrace,3,3,1
+6037104204,3,Lake View Terrace,2,2,2
+6037104204,3,Lake View Terrace,0,2,2
+6037106112,4,Sylmar,0,1,2
+6037106112,4,Sylmar,2,1,2
+6037106111,3,Sylmar,1,0,1
+6037106111,3,Kagel Canyon,0,0,1
+6037103101,1,Sunland,2,2,2
+6037103101,1,Sunland,2,2,2
+6037300902,0,Glendale,3,2,2
+6037301000,3,Glendale,2,2,2
+6037300701,3,Glendale,4,4,2
+6037300400,3,Glendale,3,3,0
+6037101400,3,Tujunga,4,4,2
+6037101400,3,Tujunga,2,4,2
+6037101400,3,Tujunga,4,4,2
+6037101300,3,Tujunga,3,1,2
+6037101300,3,Tujunga,2,1,2
+6037101300,3,Tujunga,3,1,2
+6037101300,3,Tujunga,4,1,2
+6037101220,3,Tujunga,3,2,2
+6037101220,3,Tujunga,2,2,2
+6037300301,3,Glendale,1,3,2
+6037300301,3,Glendale,3,3,2
+6037300301,3,Glendale,3,3,2
+6037101110,3,Tujunga,2,2,1
+6037101110,3,Tujunga,1,2,1
+6037101110,3,Tujunga,3,2,1
+6037101122,2,Tujunga,2,4,2
+6037101122,2,Tujunga,3,4,2
+6037262706,0,Pacific Palisades,2,2,1
+6037262706,0,Pacific Palisades,2,2,1
+6037262706,0,Pacific Palisades,2,2,1
+6037262704,0,Pacific Palisades,2,2,2
+6037262501,0,Pacific Palisades,2,2,1
+6037262501,0,Pacific Palisades,2,2,1
+6037262501,0,Pacific Palisades,3,2,1
+6037262604,1,Pacific Palisades,2,2,2
+6037262604,1,Pacific Palisades,3,2,2
+6037262604,1,Pacific Palisades,4,2,2
+6037262604,1,Pacific Palisades,3,2,2
+6037271902,0,Mar Vista,3,2,0
+6037271902,0,Mar Vista,3,2,0
+6037271902,0,Mar Vista,2,2,0
+6037271400,0,Mar Vista,3,2,2
+6037271400,0,Mar Vista,2,2,2
+6037271400,0,Mar Vista,2,2,2
+6037271901,0,Mar Vista,2,1,1
+6037271901,0,Mar Vista,2,1,1
+6037271901,0,Mar Vista,0,1,1
+6037271500,0,Mar Vista,3,3,2
+6037271500,0,Mar Vista,2,3,2
+6037271500,0,Mar Vista,2,3,2
+6037702300,1,Santa Monica,2,1,2
+6037702300,1,Santa Monica,1,1,2
+6037271600,0,Mar Vista,3,1,2
+6037271600,0,Mar Vista,0,1,2
+6037271600,0,Mar Vista,3,1,2
+6037271600,0,Mar Vista,2,1,2
+6037271300,0,West LA,2,3,2
+6037271300,0,West LA,2,3,2
+6037271300,0,West LA,2,3,2
+6037271300,0,West LA,2,3,2
+6037271300,0,West LA,2,3,2
+6037271702,1,Mar Vista,0,2,1
+6037271702,1,Mar Vista,2,2,1
+6037271702,1,Mar Vista,2,2,1
+6037701801,2,Santa Monica,3,2,2
+6037701801,2,Santa Monica,0,2,2
+6037701304,1,Santa Monica,3,1,2
+6037701304,1,Santa Monica,3,1,2
+6037701201,0,Santa Monica,3,1,2
+6037262802,0,Pacific Palisades,4,3,2
+6037262802,0,Pacific Palisades,3,3,2
+6037262802,0,Pacific Palisades,3,3,2
+6037267300,1,West LA,0,1,0
+6037267300,1,West LA,0,1,0
+6037267404,0,West LA,1,3,1
+6037800506,0,Malibu,4,3,2
+6037800506,0,Malibu,4,3,2
+6037262601,1,Pacific Palisades,4,0,2
+6037800101,3,Calabasas,3,2,2
+6037265100,0,Westwood,3,4,2
+6037265100,0,Westwood,3,4,2
+6037262302,0,Brentwood,4,0,2
+6037262302,0,Brentwood,4,0,2
+6037262400,0,Brentwood,4,4,2
+6037262400,0,Brentwood,4,4,2
+6037262301,1,Brentwood,4,2,2
+6037262200,0,Bel Air,4,2,2
+6037262200,0,Bel Air,4,2,2
+6037262100,0,Bel Air,4,1,2
+6037262100,0,Bel Air,4,1,2
+6037262100,0,Bel Air,4,1,2
+6037261200,0,Beverly Crest,4,2,2
+6037261200,0,Beverly Crest,4,2,2
+6037261102,0,Beverly Crest,4,2,2
+6037261102,0,Beverly Crest,4,2,2
+6037141600,1,Sherman Oaks,3,4,2
+6037141600,1,Sherman Oaks,4,4,2
+6037141600,1,Sherman Oaks,4,4,2
+6037141700,1,Sherman Oaks,4,1,2
+6037141700,1,Sherman Oaks,4,1,2
+6037141700,1,Sherman Oaks,4,1,2
+6037141500,1,Encino,3,0,2
+6037141202,1,Sherman Oaks,2,2,0
+6037141202,1,Sherman Oaks,4,2,0
+6037141202,1,Sherman Oaks,3,2,0
+6037141102,2,Sherman Oaks,3,2,1
+6037141102,2,Sherman Oaks,3,2,1
+6037141101,3,Sherman Oaks,1,3,2
+6037141101,3,Sherman Oaks,3,3,2
+6037141304,1,Sherman Oaks,3,2,1
+6037141304,1,Sherman Oaks,2,2,1
+6037141201,2,Sherman Oaks,1,2,0
+6037141201,2,Sherman Oaks,1,2,0
+6037141201,2,Sherman Oaks,2,2,0
+6037141303,2,Sherman Oaks,1,3,1
+6037139703,1,Tarzana,3,3,2
+6037139802,1,Tarzana,3,1,2
+6037800204,2,Calabasas,2,4,2
+6037800204,2,Calabasas,3,4,2
+6037138000,2,Woodland Hills,3,3,2
+6037138000,2,Woodland Hills,3,3,2
+6037138000,2,Woodland Hills,3,3,2
+6037137504,0,Woodland Hills,3,0,2
+6037139801,1,Tarzana,3,4,2
+6037137402,3,Woodland Hills,3,2,2
+6037137402,3,Woodland Hills,3,2,2
+6037137402,3,Woodland Hills,3,2,2
+6037137401,2,Woodland Hills,3,1,1
+6037137401,2,Woodland Hills,2,1,1
+6037137401,2,Woodland Hills,3,1,1
+6037141400,3,Encino,2,4,2
+6037141400,3,Encino,2,4,2
+6037141400,3,Encino,2,4,2
+6037139701,3,Encino,2,1,2
+6037139701,3,Encino,2,1,2
+6037139701,3,Encino,3,1,2
+6037139701,3,Encino,3,1,2
+6037139701,3,Encino,2,1,2
+6037128910,2,Sherman Oaks,2,2,2
+6037128910,2,Sherman Oaks,1,2,2
+6037128910,2,Sherman Oaks,2,2,2
+6037124600,2,Sherman Oaks,2,4,2
+6037124600,2,Sherman Oaks,2,4,2
+6037124600,2,Sherman Oaks,3,4,2
+6037139600,3,Encino,3,2,2
+6037139600,3,Encino,3,2,2
+6037128801,2,Sherman Oaks,1,3,2
+6037128801,2,Sherman Oaks,2,3,2
+6037128802,3,Sherman Oaks,2,2,2
+6037128802,3,Sherman Oaks,1,2,2
+6037128802,3,Sherman Oaks,2,2,2
+6037137502,3,Woodland Hills,3,2,1
+6037137502,3,Woodland Hills,3,2,1
+6037137502,3,Woodland Hills,2,2,1
+6037139502,2,Encino,1,3,0
+6037139502,2,Encino,1,3,0
+6037137501,3,Woodland Hills,2,3,2
+6037137501,3,Woodland Hills,2,3,2
+6037139504,3,Encino,0,3,1
+6037139504,3,Encino,1,3,1
+6037137000,3,Woodland Hills,3,2,2
+6037137000,3,Woodland Hills,3,2,2
+6037139402,1,Tarzana,3,3,2
+6037139402,1,Tarzana,3,3,2
+6037139402,1,Tarzana,2,3,2
+6037139401,2,Tarzana,1,3,1
+6037139401,2,Tarzana,0,3,1
+6037137104,1,Woodland Hills,3,1,2
+6037137104,1,Woodland Hills,3,1,2
+6037137103,3,Woodland Hills,2,3,1
+6037137103,3,Woodland Hills,3,3,1
+6037139200,3,Encino,2,4,1
+6037139200,3,Encino,2,4,1
+6037139200,3,Encino,1,4,1
+6037139303,4,Tarzana,0,3,1
+6037139303,4,Tarzana,0,3,1
+6037139302,4,Tarzana,1,2,2
+6037139302,4,Tarzana,1,2,2
+6037137301,1,Woodland Hills,3,1,1
+6037128500,3,Sherman Oaks,2,2,2
+6037128500,3,Sherman Oaks,2,2,2
+6037128602,2,Sherman Oaks,3,4,2
+6037128602,2,Sherman Oaks,3,4,2
+6037128602,2,Sherman Oaks,3,4,2
+6037980024,0,Sepulveda Basin,1,1,2
+6037124500,2,Valley Glen,3,4,2
+6037124500,2,Valley Glen,3,4,2
+6037139001,3,Encino,1,1,2
+6037139001,3,Encino,1,1,2
+6037139001,3,Encino,2,1,2
+6037139001,3,Encino,2,1,2
+6037128601,3,Sherman Oaks,2,2,1
+6037128601,3,Sherman Oaks,2,2,1
+6037128400,3,Van Nuys,1,3,2
+6037128400,3,Van Nuys,1,3,2
+6037128400,3,Van Nuys,1,3,2
+6037128400,3,Van Nuys,2,3,2
+6037123602,3,Valley Glen,3,3,2
+6037123602,3,Valley Glen,3,3,2
+6037123602,3,Valley Glen,3,3,2
+6037128220,2,Valley Glen,3,3,1
+6037128220,2,Valley Glen,3,3,1
+6037128302,4,Van Nuys,2,3,1
+6037128302,4,Van Nuys,1,3,1
+6037137302,2,Woodland Hills,3,1,2
+6037137302,2,Woodland Hills,2,1,2
+6037139301,2,Tarzana,3,3,2
+6037139301,2,Tarzana,3,3,2
+6037139301,2,Tarzana,2,3,2
+6037135113,2,Woodland Hills,2,2,2
+6037134905,3,Woodland Hills,1,3,2
+6037132900,3,Encino,3,4,2
+6037132900,3,Encino,2,4,2
+6037134901,2,Tarzana,1,3,2
+6037134901,2,Tarzana,3,3,2
+6037134901,2,Tarzana,2,3,2
+6037135201,2,Westhills,1,3,1
+6037135201,2,Westhills,3,3,1
+6037135102,2,Westhills,2,1,2
+6037135102,2,Westhills,3,1,2
+6037135102,2,Westhills,2,1,2
+6037135202,2,Westhills,2,3,0
+6037135202,2,Westhills,2,3,0
+6037135202,2,Westhills,2,3,0
+6037132700,4,Reseda,1,4,2
+6037132700,4,Reseda,2,4,2
+6037132700,4,Reseda,2,4,2
+6037132700,4,Reseda,2,4,2
+6037134904,3,Woodland Hills,2,3,2
+6037134904,3,Woodland Hills,2,3,2
+6037132502,4,Reseda,2,3,0
+6037132502,4,Reseda,1,3,0
+6037132001,2,Lake Balboa,2,3,2
+6037132001,2,Lake Balboa,2,3,2
+6037132001,2,Lake Balboa,2,3,2
+6037135111,2,Canoga Park,2,1,2
+6037135111,2,Canoga Park,1,1,2
+6037135111,2,Canoga Park,2,1,2
+6037133000,3,Reseda,2,1,1
+6037133000,3,Reseda,2,1,1
+6037133000,3,Reseda,1,1,1
+6037127805,3,Van Nuys,0,3,2
+6037127805,3,Van Nuys,2,3,2
+6037127805,3,Van Nuys,2,3,2
+6037132002,2,Lake Balboa,1,3,2
+6037132002,2,Lake Balboa,2,3,2
+6037132002,2,Lake Balboa,3,3,2
+6037123510,4,Valley Glen,2,3,2
+6037123510,4,Valley Glen,2,3,2
+6037127603,3,Van Nuys,2,3,2
+6037127603,3,Van Nuys,1,3,2
+6037127712,3,Van Nuys,2,3,2
+6037127712,3,Van Nuys,2,3,2
+6037127804,3,Van Nuys,2,3,2
+6037127803,4,Van Nuys,2,3,2
+6037127803,4,Van Nuys,1,3,2
+6037127910,4,Van Nuys,1,3,2
+6037127910,4,Van Nuys,2,3,2
+6037123410,3,Valley Glen,1,4,2
+6037123410,3,Valley Glen,2,4,2
+6037127920,3,Van Nuys,2,3,2
+6037127920,3,Van Nuys,3,3,2
+6037134520,4,Canoga Park,1,3,1
+6037134520,4,Canoga Park,0,3,1
+6037132501,3,Reseda,1,2,0
+6037132501,3,Reseda,2,2,0
+6037134002,3,Winnetka,2,3,1
+6037134002,3,Winnetka,2,3,1
+6037134001,3,Canoga Park,2,3,0
+6037134001,3,Canoga Park,1,3,0
+6037134303,3,Canoga Park,2,1,2
+6037134303,3,Canoga Park,2,1,2
+6037134303,3,Canoga Park,2,1,2
+6037134303,3,Canoga Park,2,1,2
+6037134421,2,Westhills,3,4,2
+6037134422,3,Westhills,2,3,2
+6037134422,3,Westhills,2,3,2
+6037134710,4,Winnetka,1,4,2
+6037134710,4,Winnetka,2,4,2
+6037134720,3,Winnetka,2,3,2
+6037134720,3,Winnetka,2,3,2
+6037134720,3,Winnetka,1,3,2
+6037134522,3,Canoga Park,2,3,1
+6037127604,2,Van Nuys,2,4,2
+6037132102,4,Lake Balboa,1,4,2
+6037132102,4,Lake Balboa,2,4,2
+6037132102,4,Lake Balboa,1,4,2
+6037127103,3,Van Nuys,1,2,2
+6037131900,2,Lake Balboa,2,1,2
+6037131900,2,Lake Balboa,2,1,2
+6037131900,2,Lake Balboa,2,1,2
+6037131900,2,Lake Balboa,2,1,2
+6037127220,4,Van Nuys,2,4,2
+6037127220,4,Van Nuys,1,4,2
+6037127104,3,Van Nuys,1,4,2
+6037127104,3,Van Nuys,2,4,2
+6037127102,4,Van Nuys,1,4,2
+6037127102,4,Van Nuys,1,4,2
+6037127210,4,Van Nuys,1,3,2
+6037127210,4,Van Nuys,0,3,2
+6037127210,4,Van Nuys,0,3,2
+6037127300,3,Van Nuys,2,3,2
+6037127300,3,Van Nuys,2,3,2
+6037134521,2,Canoga Park,1,3,0
+6037131701,3,Reseda,2,4,2
+6037131701,3,Reseda,2,4,2
+6037131702,3,Reseda,2,4,1
+6037131702,3,Reseda,2,4,1
+6037134306,3,Canoga Park,1,4,2
+6037134104,3,Winnetka,1,4,2
+6037134104,3,Winnetka,1,4,2
+6037134424,1,Westhills,2,4,2
+6037134424,1,Canoga Park,3,4,2
+6037134423,2,Westhills,3,4,2
+6037134423,2,Westhills,2,4,2
+6037134302,2,Westhills,2,3,2
+6037134302,2,Westhills,2,3,2
+6037134302,2,Westhills,2,3,2
+6037134304,2,Canoga Park,0,4,2
+6037134304,2,Canoga Park,2,4,2
+6037134201,3,Canoga Park,2,3,2
+6037134201,3,Canoga Park,1,3,2
+6037134201,3,Canoga Park,2,3,2
+6037134103,3,Winnetka,2,4,2
+6037134103,3,Winnetka,2,4,2
+6037134101,4,Winnetka,2,3,2
+6037134101,4,Winnetka,2,3,2
+6037131600,3,Reseda,3,3,2
+6037131600,3,Reseda,2,3,2
+6037131600,3,Reseda,2,3,2
+6037131600,3,Reseda,3,3,2
+6037127400,4,Van Nuys,1,2,2
+6037127400,4,Van Nuys,1,2,2
+6037127400,4,Van Nuys,2,2,2
+6037127400,4,Van Nuys,0,2,2
+6037131100,2,Lake Balboa,2,4,2
+6037131100,2,Lake Balboa,2,4,2
+6037131100,2,Lake Balboa,2,4,2
+6037120030,2,Panorama City,0,3,1
+6037120300,4,Panorama City,1,4,1
+6037120300,4,Panorama City,3,4,1
+6037120300,4,Panorama City,3,4,1
+6037120300,4,Panorama City,3,4,1
+6037120020,3,Panorama City,1,4,1
+6037120020,3,Panorama City,0,4,1
+6037120010,2,Panorama City,1,2,2
+6037120010,2,Panorama City,2,2,2
+6037120400,4,Panorama City,1,3,1
+6037120400,4,Panorama City,1,3,1
+6037120400,4,Panorama City,1,3,1
+6037120400,4,Panorama City,2,3,1
+6037127520,4,Van Nuys,0,3,2
+6037127520,4,Van Nuys,0,3,2
+6037119700,3,Panorama City,2,1,2
+6037119700,3,Panorama City,2,1,2
+6037119700,3,Panorama City,2,1,2
+6037120106,4,Panorama City,1,4,1
+6037131400,4,Reseda,2,3,2
+6037131400,4,Reseda,2,3,2
+6037131300,3,Reseda,2,3,2
+6037131300,3,Reseda,2,3,2
+6037131300,3,Reseda,2,3,2
+6037131300,3,Reseda,2,3,2
+6037131200,2,Lake Balboa,3,4,2
+6037131200,2,Lake Balboa,2,4,2
+6037131200,2,Lake Balboa,2,4,2
+6037134305,3,Canoga Park,0,3,2
+6037120104,2,Panorama City,0,3,0
+6037117530,4,North Hills,1,3,2
+6037117530,4,North Hills,0,3,2
+6037117408,2,North Hills,1,3,2
+6037120107,3,Panorama City,1,4,1
+6037119900,3,Panorama City,2,4,1
+6037119900,3,Panorama City,2,4,1
+6037119900,3,Panorama City,2,4,1
+6037119900,3,Panorama City,2,4,1
+6037117303,2,North Hills,2,4,1
+6037117303,2,North Hills,1,4,1
+6037117404,3,North Hills,2,3,1
+6037117404,3,North Hills,2,3,1
+6037117404,3,North Hills,2,3,1
+6037120103,3,Panorama City,0,4,1
+6037117520,3,North Hills,1,4,2
+6037120105,2,Panorama City,1,3,1
+6037120105,2,Panorama City,2,3,1
+6037115401,4,Northridge,3,4,2
+6037115401,4,Northridge,2,4,2
+6037115403,2,Northridge,1,2,2
+6037115404,2,Northridge,1,3,2
+6037115404,2,Northridge,2,3,2
+6037115302,3,Northridge,1,4,2
+6037113232,2,Westhills,3,2,2
+6037113232,2,Westhills,3,2,2
+6037113234,4,Canoga Park,2,2,2
+6037113234,4,Canoga Park,0,2,2
+6037113231,1,Westhills,2,4,2
+6037113231,1,Canoga Park,2,4,2
+6037115202,3,Northridge,1,4,2
+6037115202,3,Northridge,0,4,2
+6037115202,3,Northridge,2,4,2
+6037113235,1,Canoga Park,3,4,2
+6037115101,3,Northridge,3,2,2
+6037115101,3,Northridge,3,2,2
+6037115101,3,Northridge,3,2,2
+6037115104,3,Northridge,3,3,2
+6037115104,3,Northridge,1,3,2
+6037115301,3,Northridge,2,2,2
+6037115301,3,Northridge,2,2,2
+6037113303,3,Chatsworth,2,1,2
+6037113303,3,Chatsworth,0,1,2
+6037113301,3,Northridge,3,3,2
+6037113301,3,Northridge,1,3,2
+6037113237,2,Chatsworth,1,1,2
+6037113237,2,Chatsworth,2,1,2
+6037115103,1,Northridge,1,1,2
+6037113213,3,Chatsworth,2,2,2
+6037113213,3,Chatsworth,1,2,2
+6037113322,3,Chatsworth,2,2,2
+6037113322,3,Chatsworth,2,2,2
+6037111205,2,Northridge,2,2,2
+6037111205,2,Northridge,1,2,2
+6037111205,2,Northridge,2,2,2
+6037111302,3,Northridge,2,3,2
+6037111302,3,Northridge,2,3,2
+6037113212,2,Chatsworth,2,4,1
+6037113212,2,Chatsworth,2,4,1
+6037111204,2,Porter Ranch,2,0,2
+6037111204,2,Porter Ranch,2,0,2
+6037111204,2,Porter Ranch,3,0,2
+6037113211,2,Chatsworth,2,2,2
+6037113211,2,Chatsworth,2,2,2
+6037113102,1,Chatsworth,3,3,2
+6037113102,1,Chatsworth,3,3,2
+6037113101,2,Chatsworth,2,3,1
+6037113101,2,Chatsworth,2,3,1
+6037111206,2,Porter Ranch,2,4,2
+6037111206,2,Porter Ranch,3,4,2
+6037111206,2,Porter Ranch,2,4,2
+6037111206,2,Porter Ranch,2,4,2
+6037111206,2,Porter Ranch,2,4,2
+6037111202,3,Granada Hills,2,2,2
+6037111202,3,Granada Hills,2,2,2
+6037111202,3,Granada Hills,3,2,2
+6037109500,3,Pacoima,1,3,2
+6037109500,3,Pacoima,1,3,2
+6037109500,3,Pacoima,1,3,2
+6037111201,2,Granada Hills,2,1,2
+6037111201,2,Granada Hills,2,1,2
+6037111201,2,Granada Hills,2,1,2
+6037104310,3,Pacoima,1,2,1
+6037104310,3,Pacoima,0,2,1
+6037104310,3,Pacoima,1,2,1
+6037109200,2,Granada Hills,1,0,2
+6037109200,2,Granada Hills,2,0,2
+6037109200,2,Granada Hills,2,0,2
+6037109100,3,Mission Hills,1,3,2
+6037109100,3,Mission Hills,1,3,2
+6037106646,2,Granada Hills,2,4,2
+6037106646,2,Granada Hills,1,4,2
+6037320300,4,San Fernando,1,3,1
+6037320300,4,San Fernando,1,3,1
+6037320300,4,San Fernando,2,3,1
+6037320300,4,San Fernando,2,3,1
+6037320300,4,San Fernando,2,3,1
+6037320201,3,San Fernando,1,3,0
+6037320201,3,San Fernando,1,3,0
+6037106642,2,Granada Hills,3,4,2
+6037106642,2,Granada Hills,2,4,2
+6037106642,2,Granada Hills,3,4,2
+6037106649,2,Sylmar,2,4,2
+6037106649,2,Sylmar,2,4,2
+6037108101,1,Porter Ranch,2,0,2
+6037108102,2,Porter Ranch,2,2,0
+6037108103,1,Porter Ranch,2,4,2
+6037108103,1,Porter Ranch,3,4,2
+6037108202,4,Chatsworth,0,4,2
+6037106643,2,Granada Hills,3,0,2
+6037106643,2,Granada Hills,2,0,2
+6037106643,2,Granada Hills,2,0,2
+6037320202,4,San Fernando,3,4,0
+6037320202,4,San Fernando,1,4,0
+6037106645,2,Granada Hills,3,4,2
+6037106645,2,Granada Hills,2,4,2
+6037106648,4,Sylmar,2,3,2
+6037106648,4,Sylmar,1,3,2
+6037107020,4,Sylmar,2,4,1
+6037107020,4,Sylmar,2,4,1
+6037106641,1,Granada Hills,3,3,2
+6037107010,2,Sylmar,2,3,0
+6037106114,4,Sylmar,1,3,2
+6037106114,4,Sylmar,2,3,2
+6037108104,0,Porter Ranch,2,3,2
+6037106603,1,Granada Hills,0,3,2
+6037106603,1,Granada Hills,2,3,2
+6037920303,0,Chatsworth,1,2,2
+6037920312,4,Santa Clarita,3,4,2
+6037106510,4,Sylmar,1,4,2
+6037106510,4,Sylmar,2,4,2
+6037106510,4,Sylmar,0,4,2
